@@ -19,7 +19,7 @@ Bioinformatics - the application of computational and analytical methods to biol
 
 This upper division 4-unit course is designed for biology majors and provides an introduction to the principles and practical approaches of bioinformatics as applied to genes and proteins.  
 
-An integrated lecture/lab structure with hands-on exercises and small-scale projects emphasizes modern developments in genomics and proteomics. A detailed listing of all [lecture topics]({{ site.baseurl }}/lectures/) is available and includes the major areas of: 
+An integrated lecture/lab structure with hands-on exercises and small-scale projects emphasizes modern developments in genomics and proteomics. A detailed listing of all [lecture topics]({{ site.baseurl }}/schedule/) is available and includes the major areas of: 
 
 - Genomic and biomolecular bioinformatic resources, 
 - Advances in sequencing technologies, 
@@ -41,7 +41,7 @@ We are committed to making this course accessible to everybody. Please contact P
 To fully participate in this course students will be expected to use their own  computers with specific freely available [software installed]({{ site.baseurl }}/setup/).    
 
 ## Schedule:  
-**N.B.** For the Spring 2020 quarter, BIMM-143 will be offered online only.**   Video lectures, screencast hands-on sessions and supporting material will be available on a weekly basis throughout the quarter.  Hands-on sessions will require both individual and small group based computational work. A detailed [schedule]({{ site.baseurl }}/lectures/) with class related material is provided online.  
+**N.B.** For the Spring 2020 quarter, BIMM-143 will be offered online only.**   Video lectures, screencast hands-on sessions and supporting material will be available on a weekly basis throughout the quarter.  Hands-on sessions will require both individual and small group based computational work. A detailed [schedule]({{ site.baseurl }}/schedule/) with class related material is provided online.  
 
 ## Class announcements:  
 All announcements regarding the course will be by email to your UCSD address.  We will also be using [Piazza](https://piazza.com/ucsd/spring2020/bimm143/home) to facilitate course communication, particularly around questions and answers. If you have a question outside of class or office hours, first check if it has already been asked on Piazza and if not post there. If you have a question or concern you don’t feel comfortable posting on Piazza feel free to reach out via email.  

@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Lectures
-menu: true
-order: 2
 ---
+
+# Outdated Page
+
+See [schedule]({{ site.baseurl }}/schedule/) for updated information  
 
 
 All Lectures are Tu/Th 9:30-12:30 pm in TATA 2501
