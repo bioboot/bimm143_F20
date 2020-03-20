@@ -8,6 +8,7 @@ order: 6
 **NOTE**: Please do pay attention to our [**course ethics code**]({{ site.baseurl }}/ethics/). Ignorance of this code is not an excuse.
 {:.message}
 
+## Homework:  
 Weekly homework will consist of online knowledge assessment quizzes and application assignments (a.k.a. "hands-on lab sections") together with pre-class reading and video screen-casts. 
 
 Specific grading criteria (assessment rubrics) for each homework will be given at the time of assignment. Weekly grades will be posted online. Each student is responsible for checking to ensure that a grade has been entered for their submissions. Documents submitted by email do not always arrive at their intended destination and late submissions will not be accepted after one week past the original due date. Collectively homework performance will account for 65% of the course grade.
