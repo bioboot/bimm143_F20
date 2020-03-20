@@ -13,14 +13,18 @@ comments: true
 Students in this course will learn that Bioinformatics frequently requires analyzing large complex datasets. The recommended approach to such analysis is to work with a computer that offers **UNIX** integration. Together we will lean the fundamentals of the UNIX command line and the R environment for data analysis and graphics.
 
 
-### Student Laptops & Software Setup Instructions
-To fully participate in this course students will need to bring a laptop to class.  I much prefer **Mac** and Linux based laptops as they already have a UNIX base.  If you can, please bring one of these.  However, don't worry if you are running Windows as we will be able to login to a campus based UNIX machine from your laptop or use a classroom Mac for classwork. 
+### Student Computers & Software Setup Instructions
+To fully participate in this course students will need access to a modern computer to which they have administrator privileges (that is a computer where they can install software without restriction).  
 
-Regardless of your laptop type you will need to install the software described below.
+I much prefer **Mac** and Linux based computers as they already have a UNIX base.  If you can, please use one of these.  However, don't worry if you are running Windows as we will be able to login to a campus based UNIX machine from your laptop or windows desktop for classwork. 
+
+Regardless of your computer type you will need to install the software described below.
 
 ### An up-to-date **web browser** 
 Current versions of [Chrome](https://www.google.com/chrome/), [Firefox](http://www.mozilla.org/firefox/) and [Safari](Safari) are preferred.
 
+### The Zoom virtual meeting software  
+We will use [Zoom](https://ucsd.zoom.us) on a weekly basis for office hours and other meetings. Please make sure you have Zoom installed and running to allow you to join these meetings.   
 
 ### The data analysis environment **R** and **RStudio**
 R Binaries for Windows, MacOSX and Linux can be downloaded and installed from [CRAN](http://cran.r-project.org/index.html) (Comprehensive R Archive Network). If possible download the latest binary version of R for your operating system. As of course launch (Sept 18) the latest release (2018-07-02, "Feather Spray") is R-3.5.1.
