@@ -11,7 +11,7 @@ more_projects: projects.md
 <br>
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
-  At the time of writing we are in the middle of a major <b>COVID-19</b> pandemic crisis. Whilst we are making every effort to support your learning online nothing is going to fully compensate for what we are going to lose in the next few months. As things get bad out there, our hope is that this online course can serve as a venue where we build the community that we all need to help get through these dire times.
+  At the time of writing we are in the middle of a major COVID-19 pandemic crisis. Whilst we are making every effort to support your learning online nothing is going to fully compensate for what we are going to lose in the next few months. The projections are dire and turn into reality with alarming regularity. Heartbreaking stories of loss continue to pile up. As things get bad out there, my hope is that this online course can serve as a venue where we build a vibrant supportive community that can help us all get through these dire times.
 </div>
 
 ## Overview
@@ -35,33 +35,30 @@ An integrated lecture/lab structure with hands-on exercises and small-scale proj
 Biology majors with upper division standing. A familiarity with basic biomedical concepts is essential (students should have successfully completed BILD1 and BILD4 or BIMM 101). No formal programming training or high level mathematical skills are required.  
 
 ## Accessibility:  
-We are committed to making this course accessible to everybody. Please contact Prof. Grant <bigrant@ucsd.edu> if you have questions regarding room accessibility.  
+We are committed to making this course accessible to everybody. Please contact Prof. Grant <bigrant@ucsd.edu> if you have questions regarding content accessibility.  
 
 ## Requirements: 
-To fully participate in this course students will be expected to use their own laptop computers with specific freely available [software installed]({{ site.baseurl }}/setup/). A limited number of classroom computers are also available should the need arise. Participants must bring a laptop with specific [software installed]({{ site.baseurl }}/setup/).  
+To fully participate in this course students will be expected to use their own  computers with specific freely available [software installed]({{ site.baseurl }}/setup/).    
 
 ## Schedule:  
-*To Update:** Lectures are on Tuesday and Thursday at 9:30 - 12:30 pm in TATA 2501 (<a href="https://goo.gl/maps/Cd8z9Zexx6q">Map</a>).  These lectures will include hands-on sessions requiring both individual and small group based computational work. A detailed [lecture schedule]({{ site.baseurl }}/lectures/) with class related material is provided online.  
+**N.B.** For the Spring 2020 quarter, BIMM-143 will be offered online only.**   Video lectures, screencast hands-on sessions and supporting material will be available on a weekly basis throughout the quarter.  Hands-on sessions will require both individual and small group based computational work. A detailed [schedule]({{ site.baseurl }}/lectures/) with class related material is provided online.  
 
 ## Class announcements:  
-All announcements regarding the course will be by email to your UCSD address.  
+All announcements regarding the course will be by email to your UCSD address.  We will also be using [Piazza](https://piazza.com/ucsd/spring2020/bimm143/home) to facilitate course communication, particularly around questions and answers. If you have a question outside of class or office hours, first check if it has already been asked on Piazza and if not post there. If you have a question or concern you don’t feel comfortable posting on Piazza feel free to reach out via email.  
 
-## Office hours & location:  
-Our instructional assistants will hold online office hours twice a week on Tuesday and Thursday at 1:00 - 2:00 pm via ZOOM.    
-
-From week 3 onward Barry will hold an additional office hour from 12:30 -1:30 pm on Thursdays after class in TATA 2501 or, weather permitting, at the Mandeville coffee cart (a.k.a. Art of Espresso) [Map](https://goo.gl/maps/ZecfgoF8qas){:.no-push-state}{:target="_blank"}.  
-
-If you can't make any of these please email for a time and we will make it happen. Note that is often a good idea to email so we know to expect you.    
+## Office hours:  
+We will use [Zoom](https://ucsd.zoom.us/) on a weekly basis at a time to be determined from student polling. For now email me for a time and we will make it happen.
+    
 
 ## Textbook:  
-There is no textbook for the course. Lecture notes, homework assignments, grading criteria, pre-class screen casts and required reading material will be available from this public facing course website.  
+There is no textbook for the course. Lecture notes, homework assignments, grading criteria, video lectures, hands-on session screencasts and required reading material will be available from this public facing course website.  
 
 ## Syllabus:  
 A detailed [syllabus]({{ site.baseurl }}/class-material/BIMM143_S20_syllabus.pdf){:.no-push-state} with topic outlines and learning goals is available for download.
 
 ## Surveys:
 Please help us improve this course by completing by completing these surveys before and after the course. Thank you!
-* [Pre-course questionnaire](https://forms.gle/u459pkRcQw8RM5im6){:target="_blank"}  
+* [Pre-course questionnaire](https://forms.gle/9iP4PsU6UJ6MPfuo7){:target="_blank"}  
 * [Post-course questionnaire]({{ site.baseurl }}/404/)  
 
 ## Acknowledgments:
