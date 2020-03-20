@@ -7,6 +7,13 @@ selected_projects:
 more_projects: projects.md
 ---
 
+
+<br>
+
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
+  At the time of writing we are in the middle of a major <b>COVID-19</b> pandemic crisis. Whilst we are making every effort to support your learning online nothing is going to fully compensate for what we are going to lose in the next few months. As things get bad out there, our hope is that this online course can serve as a venue where we build the community that we all need to help get through these dire times.
+</div>
+
 ## Overview
 Bioinformatics - the application of computational and analytical methods to biological problems - is a rapidly maturing field that is driving the collection, analysis, and interpretation of the avalanche of data in modern life sciences and medical research.  
 
