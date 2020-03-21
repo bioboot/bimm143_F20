@@ -12,7 +12,7 @@ All course delivery for Spring 2020 will be online via this public facing websit
 
 | \# | Week         | Topics for Spring 2020                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | :-: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1  | 03/30/20 | [**Getting Oriented**](#1) <br> Course introduction, Leaning goals & expectations, Meet the instructional team. Setup your computer with required software.                                                                                                                                               |
+| 1  | 03/30/20 | [**Getting Oriented**](#1) <br> Course introduction, Learning goals & expectations, Meet the instructional team. Setup your computer with required software.                                                                                                                                               |
 | 2  | 04/06/20 | [**Welcome to Bioinformatics**](#2) <br> Biology is an information science, History of Bioinformatics, Types of data, Application areas and introduction to upcoming course segments, Hands on with major Bioinformatics databases and key online NCBI and EBI resources                                                                                                                                               |
 | 3  | 04/13/20 | [**Sequence alignment fundamentals, algorithms and applications**](#3) <br> Homology, Sequence similarity, Local and global alignment, classic Needleman-Wunsch, Smith-Waterman and BLAST heuristic approaches, Hands on with dot plots, Needleman-Wunsch and BLAST algorithms highlighting their utility and limitations                                                                                                                                                 |
 | *  | 04/20/20  | **Project:** [**Find a gene project assignment**](#11) <br> (Part 1) Principles of database searching, due in 3 weeks. (Part 2) Sequence analysis, structure analysis and general data analysis with R due at the end of the quarter.                                                                                                                                                                                                 |
@@ -36,7 +36,7 @@ All course delivery for Spring 2020 will be online via this public facing websit
 ## Week 1: Getting oriented
 
 **Topics:**  
-Course introduction, Leaning goals & expectations, Meet the instructional team. Setup your computer with required software.   
+Course introduction, Learning goals & expectations, Meet the instructional team. Setup your computer with required software.   
 
 **Goals:**
 - Understand course scope, expectations, logistics and ethics code.  
