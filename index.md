@@ -11,7 +11,7 @@ more_projects: projects.md
 <br>
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
-  At the time of writing we are in the middle of a major COVID-19 pandemic crisis. Whilst we are making every effort to support your learning online nothing is going to fully compensate for what we are going to lose in the next few months. The projections are dire and turn into reality with alarming regularity. Heartbreaking stories of loss continue to pile up. As things get bad out there, my hope is that this online course can serve as a venue where we build a vibrant supportive community that can help us all get through these dire times.
+  At the time of writing we are in the middle of a major COVID-19 pandemic crisis. Whilst we are making every effort to support your learning online, nothing is going to fully compensate for what we are going to lose in the next few months.  My hope is that this online course can serve as a venue where we build a vibrant supportive community and utilize this forced distancing as a productive learning time. 
 </div>
 
 ## Overview
