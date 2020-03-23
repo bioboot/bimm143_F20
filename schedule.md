@@ -18,11 +18,11 @@ All course delivery for Spring 2020 will be online via this public facing websit
 | *  | 04/20/20  | **Project:** [**Find a gene project assignment**](#11) <br> (Part 1) Principles of database searching, due in 3 weeks. (Part 2) Sequence analysis, structure analysis and general data analysis with R due at the end of the quarter.                                                                                                                                                                                                 |
 | 4  | 04/20/20  | [**Bioinformatics data analysis with R**](#4) <br> Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major R data structures and functions, Using R interactively from the RStudio console                                                                                                                                                                                                                                          |
 | 5  | 04/27/20  | [**Data exploration and visualization in R**](#5) <br> The exploratory data analysis mindset, Data visualization best practices, Simple base graphics (including scatterplots, histograms, bar graphs, dot chats, boxplots and heatmaps), Building more complex charts with ggplot.                                                                                                                                                                                                                                                       |
-| 6  | 05/04/20 | [**Why, when and how of writing your own R functions**](#6) <br> The basics of writing your own functions that promote code robustness, reduce duplication and facilitate code re-use. <br> Plus: [**Bioinformatics R packages from CRAN and BioConductor**](#6) <br> Extending functionality and utility with R packages, Obtaining R packages from CRAN and BioConductor, Working with Bio3D for molecular data                                                                                                                                                                                                                                                                                      |
+| 6  | 05/04/20 | [**Writing your own R functions and using packages from CRAN,  BioConductor and GitHub**](#6) <br> The basics of writing your own functions that promote code robustness, reduce duplication and facilitate code re-use. Extending functionality and utility with R packages from CRAN and BioConductor, Working with Bio3D for molecular data. <br> **Project: Pt 1. Q1-Q4 due\!**                                                                                                                                                                                                                                                                                      |
 | 7  | 05/11/20  | [**Machine learning for Bioinformatics**](#7) <br> Unsupervised learning, K-means clustering, Hierarchical clustering, Heatmap representations. Dimensionality reduction, Principal Component Analysis (PCA)                                                                                                                                                                                                                                                            |
 | 8  | 05/18/20  | [**Genome informatics and high throughput sequencing**](#8) <br> Searching genes and gene functions, Genome databases, Variation in the Genome, High-throughput sequencing technologies, biological applications, bioinformatics analysis methods; The Galaxy platform along with resources from the EBI & UCSC                                                                                                                                                                                                                                                            |
 | 9  | 05/25/20  | [**Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists**](#9) <br> RNA-Seq aligners, Differential expression tests, RNA-Seq statistics, Counts and FPKMs and avoiding P-value misuse, Hands-on analysis of RNA-Seq data with R. Gene function annotation, Functional databases KEGG, InterPro, GO ontologies and functional enrichment analysis.                                                                                                                                                                                                                                            |
-| 10  | 06/01/20  | [**Course summary**](#10) <br> Summary of learning goals, Student course evaluation time; **Find a gene assignment due\!**                                                                                                                                                                                                              |
+| 10  | 06/01/20  | [**Course summary**](#10) <br> Summary of learning goals, Student course evaluation time; <br> **Project: Find a gene assignment due\!**                                                                                                                                                                                                              |
 
 
 
@@ -45,15 +45,16 @@ Course introduction, Learning goals & expectations, Meet the instructional team.
 
 
 **Videos:**
-- 1.1 - [Course introduction and overview (intro to course)]()  
-- 1.2 - [Meet the team (Barry, Alena & Hanqing)]() 
-- 1.3 - [Meet the toolset (Website, Piazza, Zoom, R, RStudio, GitBash, Galaxy)]()  
-- 1.4 - [A note about COVID-19 and this most unusual of quarters]() 
+- 1.1 - [Course introduction and overview (intro to course)](){:target="_blank"}  
+- 1.2 - [Meet the team (Barry, Alena & Hanqing)](){:target="_blank"} 
+- 1.3 - [Meet the toolset (Website, Piazza, Zoom, R, RStudio, GitBash, Galaxy)](){:target="_blank"}  
+- 1.4 - [A note about COVID-19 and this most unusual of quarters](){:target="_blank"} 
 
 **Supporting material:**  
 - Handout: [Class Syllabus]({{ site.baseurl }}/class-material/BIMM143_S20_syllabus.pdf){:.no-push-state}{:target="_blank"},  
 - Pre-course [Questionnaire](https://forms.gle/9iP4PsU6UJ6MPfuo7){:target="_blank"},   
 - Computer [Setup Instructions]({{ site.baseurl }}/setup/).  
+- Office Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"}.   
 
 
 
@@ -81,6 +82,8 @@ Biology is an information science, History of Bioinformatics, Types of data, App
 **Supporting Material**:  
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture1-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture1-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},      
 - Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab-1-bimm143.pdf){:target="_blank"}{:.no-push-state}  
+- Lab: [Video walk-through]({{ site.baseurl }}/class-material/lab-vid/){:target="_blank"}{:.no-push-state}  
+- Office Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
 - Feedback: [Muddy Point Assessment](https://forms.gle/fHMc1C5gd7hh5eog7){:.no-push-state}{:target="_blank"},    
 
 
@@ -115,9 +118,11 @@ Sequence Alignment and Database Searching: Homology, Sequence similarity, Local 
 
 **Supporting Material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture2-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture2-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},    
-- [Handout: Major Bioinformatics Databases]({{ site.baseurl }}/class-material/Major_Databases_BIMM143.pdf){:.no-push-state}{:target="_blank"}  
+- Handout: [Major Bioinformatics Databases]({{ site.baseurl }}/class-material/Major_Databases_BIMM143.pdf){:.no-push-state}{:target="_blank"}  
 - Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lecture2-BIMM143-lab.pdf){:.no-push-state}{:target="_blank"}  
-- Feedback: [Muddy Point Assessment](https://forms.gle/T1LnVTjLWp8ZJCJh9){:.no-push-state}{:target="_blank"}.   
+- Lab: [Video walk-through]({{ site.baseurl }}/class-material/lab-vid/){:target="_blank"}{:.no-push-state}  
+- Office Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
+- Feedback: [Muddy Point Assessment](https://forms.gle/FEbKxnq4X7nUMhcn8){:.no-push-state}{:target="_blank"}.   
      
 
 
@@ -142,7 +147,7 @@ The [**find-a-gene project**]({{ site.baseurl }}/class-material/Find_A_Gene_Proj
 
 You may wish to consult the scoring rubric at the end of the above linked project description and the [**example report**]({{ site.baseurl }}/class-material/Find_A_Gene_Project_Example.pdf){:.no-push-state} for format and content guidance.  
  
-Your responses to questions Q1-Q4 are due **Friday May 15th** (05/15/20) at 12pm San Diego time.   
+Your responses to questions Q1-Q4 are due **Monday May 4th** (05/04/20) at 12pm San Diego time.   
 
 The complete assignment, including responses to all questions, is **Friday June 5th** (06/05/20) at 12pm San Diego time.  
 
@@ -174,13 +179,14 @@ Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major
 **Supporting Material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture4-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture4-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
 - Lab: [Hands-on section 1]({{ site.baseurl }}/class-material/04_rintro/){:.no-push-state},  
+- Office Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
 - Feedback: [Muddy point assessment](https://goo.gl/forms/d23JGkVJyr0EcpTg2){:.no-push-state}{:target="_blank"},  
   
 
 
 **Homework**:   
-- Due today: [DataCamp, Into to R!](https://www.datacamp.com/){:.no-push-state}{:target="_blank"}.  
-- Due next week: [DataCamp,  Intermediate R!](https://www.datacamp.com/){:.no-push-state}{:target="_blank"}.    
+- DataCamp: [Introduction to R!](https://www.datacamp.com/){:.no-push-state}{:target="_blank"}.  
+    
 
 
 
@@ -212,11 +218,12 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
 - Lab: [Supplement: Plotting with color in R]({{ site.baseurl }}/class-material/Rcolor.html){:.no-push-state}{:target="_blank"}, 
 - Lab: [PDF supplement]({{ site.baseurl }}/class-material/lecture5-BIMM143_lab.pdf){:.no-push-state}{:target="_blank"}, 
 - Example data for hands-on sections [bimm143_05_rstats.zip]({{ site.baseurl }}/class-material/bimm143_05_rstats.zip){:.no-push-state},  
+- Office Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
 - Feedback: [Muddy point assessment](https://forms.gle/FJHD9Bnrmgj32Tk69){:.no-push-state}{:target="_blank"},  
  
  
 **Homework**:   
-- This units homework is all [via **DataCamp** (Intro to R, Intermideate R)](https://www.datacamp.com/){:.no-push-state}{:target="_blank"}.   
+- This units homework is all [via **DataCamp** (*Intro to R*, and *Intermideate R*)](https://www.datacamp.com/){:.no-push-state}{:target="_blank"}.   
  
 
 ---
@@ -427,6 +434,7 @@ Summary of learning goals, Student course evaluation time; Find a gene assignmen
 - Cancer genomics
 - Unix for Bioinformatics
 - Structural Bioinformatics and computational drug design
+- Introduction to the tidyverse  
 
 
 ---
