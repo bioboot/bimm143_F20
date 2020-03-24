@@ -44,10 +44,10 @@ To fully participate in this course students will be expected to use their own  
 **N.B.** For the Spring 2020 quarter, BIMM-143 will be offered online only.**   Video lectures, screencast hands-on sessions and supporting material will be available on a weekly basis throughout the quarter.  Hands-on sessions will require both individual and small group based computational work. A detailed [schedule]({{ site.baseurl }}/schedule/) with class related material is provided online.  
 
 ## Class announcements:  
-All announcements regarding the course will be by email to your UCSD address.  We will also be using [Piazza](https://piazza.com/ucsd/spring2020/bimm143/home) to facilitate course communication, particularly around questions and answers. If you have a question outside of class or office hours, first check if it has already been asked on Piazza and if not post there. If you have a question or concern you don’t feel comfortable posting on Piazza feel free to reach out via email.  
+All announcements regarding the course will be by email to your UCSD address.  We will also be using [Piazza](https://piazza.com/ucsd/spring2020/bimm143/home){:target="_blank"} to facilitate course communication, particularly around questions and answers. If you have a question outside of class or office hours, first check if it has already been asked on Piazza and if not post there. If you have a question or concern you don’t feel comfortable posting on Piazza feel free to reach out via email.  
 
 ## Office hours:  
-We will use [Zoom](https://ucsd.zoom.us/) on a weekly basis at a time to be determined from student polling. For now email me for a time and we will make it happen.
+We will use [Zoom](https://ucsd.zoom.us/){:target="_blank"} on a weekly basis at a time to be determined from student polling. For now email me for a time and we will make it happen.
     
 
 ## Textbook:  

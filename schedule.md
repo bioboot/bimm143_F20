@@ -81,7 +81,7 @@ Biology is an information science, History of Bioinformatics, Types of data, App
 
 **Supporting Material**:  
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture1-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture1-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},      
-- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab-1-bimm143.pdf){:target="_blank"}{:.no-push-state}  
+- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab-2-BIMM143_online-form.pdf){:target="_blank"}{:.no-push-state}  
 - Lab: [Video walk-through]({{ site.baseurl }}/class-material/lab-vid/){:target="_blank"}{:.no-push-state}  
 - Office Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
 - Feedback: [Muddy Point Assessment](https://forms.gle/fHMc1C5gd7hh5eog7){:.no-push-state}{:target="_blank"},    
@@ -119,7 +119,7 @@ Sequence Alignment and Database Searching: Homology, Sequence similarity, Local 
 **Supporting Material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture2-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture2-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},    
 - Handout: [Major Bioinformatics Databases]({{ site.baseurl }}/class-material/Major_Databases_BIMM143.pdf){:.no-push-state}{:target="_blank"}  
-- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lecture2-BIMM143-lab.pdf){:.no-push-state}{:target="_blank"}  
+- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab-3-BIMM143_online-form.pdf){:.no-push-state}{:target="_blank"}  
 - Lab: [Video walk-through]({{ site.baseurl }}/class-material/lab-vid/){:target="_blank"}{:.no-push-state}  
 - Office Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
 - Feedback: [Muddy Point Assessment](https://forms.gle/FEbKxnq4X7nUMhcn8){:.no-push-state}{:target="_blank"}.   
