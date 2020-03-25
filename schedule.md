@@ -45,7 +45,7 @@ Course introduction, Learning goals & expectations, Meet the instructional team.
 
 
 **Videos:**
-- 1.1 - [Course introduction and overview (intro to course)](){:target="_blank"}  
+- 1.1 - [Course introduction and overview (intro to course)](https://www.youtube.com/watch?v=Bf84X5LvG_k){:target="_blank"}  
 - 1.2 - [Website overview (finding course content and installing software)](https://www.youtube.com/watch?v=zjAjU3Z_oEI){:target="_blank"}  
 - 1.3 - [Meet the team (Barry, Alena & Hanqing)](){:target="_blank"} 
 - 1.4 - [Meet the toolset (Website, Piazza, Zoom, R, RStudio, GitBash, Galaxy)](){:target="_blank"}  
