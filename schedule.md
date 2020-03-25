@@ -48,7 +48,7 @@ Course introduction, Learning goals & expectations, Meet the instructional team.
 - 1.1 - [Course introduction and overview (intro to course)](https://www.youtube.com/watch?v=Bf84X5LvG_k){:target="_blank"}  
 - 1.2 - [Website overview (finding course content and installing software)](https://www.youtube.com/watch?v=zjAjU3Z_oEI){:target="_blank"}  
 - 1.3 - [Meet the team (Barry, Alena & Hanqing)](https://youtu.be/v1oYAJADIZE){:target="_blank"} 
-- 1.4 - [A note about COVID-19 and this most unusual of quarters](){:target="_blank"} 
+ 
 
 **Supporting material:**  
 - Handout: [Class Syllabus]({{ site.baseurl }}/class-material/BIMM143_S20_syllabus.pdf){:.no-push-state}{:target="_blank"},  
@@ -74,9 +74,9 @@ Biology is an information science, History of Bioinformatics, Types of data, App
 
 
 **Videos:**
-- 2.1 - [Introduction to bioinformatics (what, where and why of bioinformatics)]()  
-- 2.2 - [Major bioinformatics resource providers (NCBI and EBI)]()  
-- 2.3 - [A quick tour of major NCBI and EBI resources (GENE, UniProt, GO, OMIM, PDB, PFAM)]()  
+- 2.1 - [Introduction to bioinformatics (what, where and why of bioinformatics)](https://youtu.be/DhmP8M1Kh8c){:.no-push-state}{:target="_blank"},  
+- 2.2 - [Major bioinformatics resource providers (NCBI and EBI)](https://youtu.be/zUK7c9J1KGU){:.no-push-state}{:target="_blank"},  
+- 2.3 - [A quick tour of major NCBI and EBI resources (GENE, UniProt, GO, OMIM, PDB, PFAM)](https://youtu.be/k77QilYmrfk){:.no-push-state}{:target="_blank"}.    
 
 
 **Supporting Material**:  
