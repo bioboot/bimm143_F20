@@ -3,7 +3,7 @@ layout: projects
 title: Screen Cast Videos
 show_collection: projects
 description: >
-  This is a listing of all previous screen-cast videos for Bioinformatics (BIMM-143). These short (sub 10 minute) videos are available for students to watch before class and are designed to help address potential variability in student background knowledge and aid with class inclusivity.
+  This is a listing of all previous screen-cast videos for Bioinformatics (BIMM-143). These short (sub 10 minute) videos are available for students to watch anytime and are designed to help address potential variability in student background knowledge and aid with class inclusivity.
 ---
 
 #menu: true

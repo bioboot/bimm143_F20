@@ -1,6 +1,6 @@
 ---
 layout: video
-title: Welcome to BGGN-213
+title: Welcome to BIMM-143
 date: 15 Sep 2017
 screenshot:
   src: https://i.vimeocdn.com/video/655557441_640.jpg
@@ -8,15 +8,15 @@ screenshot:
 #    1920w: https://qwtel.com/hydejack/assets/img/projects/hydejack-v6.jpg
 #    960w: https://qwtel.com/hydejack/assets/img/projects/hydejack-v6@0,5x.jpg
 #    480w: https://qwtel.com/hydejack/assets/img/projects/hydejack-v6@0,25x.jpg
-video: https://player.vimeo.com/video/234066823
+video: https://www.youtube.com/embed/Bf84X5LvG_k
 caption: Course introduction and logistics.
 description: >
-  This first short screen-cast introduces “Foundations of Bioinformatics” (BGGN-213) and covers some pre-course logistics and expectations.
+  This first short screen-cast for "Introduction to Bioinformatics" (BIMM-143) covers some pre-course logistics and expectations.
 links:
   - title: Download
     url: https://player.vimeo.com/video/234066823?s=151178510_1502823257_930cd93766f9b7a24ee19002da57b6a1&loc=external&context=Vimeo%5CController%5CClipController.main&download=1
-  - title: Vimeo
-    url: https://player.vimeo.com/video/234066823
+  - title: YouTube
+    url: https://www.youtube.com/watch?v=Bf84X5LvG_k
 ---
 
 
