@@ -6,7 +6,7 @@ order: 2
 ---
 
 
-All course delivery for Spring 2020 will be online via this public facing website.  Clicking on the class topics below will take you to corresponding video lectures, pre-class video screen-casts, required reading material and homework assignments.
+All course delivery for Spring 2020 will be online via this public facing website.  New class content will be posted on a weekly basis throughout the quarter.  Clicking on the topics below will take you to corresponding video lectures, hands-on "lab sessions" supporting walk-through screencasts, required reading material and homework assignments.
 
 <br>
 
@@ -128,6 +128,7 @@ Sequence Alignment and Database Searching: Homology, Sequence similarity, Local 
 
 **Homework**:   
 - [Questions](https://forms.gle/hx4mLpUouH6XmCk9A){:.no-push-state}{:target="_blank"},  
+- For next week please [install R and RStudio](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu){:.no-push-state}{:target="_blank"},  
 - [Alignment Problem]({{ site.baseurl }}/class-material/lecture2-BIMM134_homework.pdf){:.no-push-state}{:target="_blank"},  
 
 
@@ -185,7 +186,8 @@ Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major
 
 
 **Homework**:   
-- DataCamp: [Introduction to R!](https://www.datacamp.com/){:.no-push-state}{:target="_blank"}.  
+- DataCamp: Sign-up to our **BIMM143_S20 group/organization** via the link in your UCSD email,   
+- DataCamp: Complete [Introduction to R!](https://learn.datacamp.com/courses/free-introduction-to-r){:.no-push-state}{:target="_blank"} (4hrs).  
     
 
 
@@ -223,7 +225,7 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
  
  
 **Homework**:   
-- This units homework is all [via **DataCamp** (*Intro to R*, and *Intermideate R*)](https://www.datacamp.com/){:.no-push-state}{:target="_blank"}.   
+- This units homework is all [via **DataCamp** (*Intro to R*, and *Intermediate R*)](https://learn.datacamp.com/courses/intermediate-r){:.no-push-state}{:target="_blank"} (6hrs).   
  
 
 ---
@@ -253,7 +255,7 @@ Using R scripts and Rmarkdown files, Import data in various formats both local a
 
 
 **Homework**:   
-- Project  ADD DETAILS HERE!  
+- Project: You should be working on [your project](#11),      
 - See **Q6** of the [hands-on lab sheet above]({{ site.baseurl }}/class-material/lecture6-BIMM143_W19.pdf){:.no-push-state}{:target="_blank"}. This entails turning a supplied code snippet into a more robust and re-usable function that will take any of the three listed input proteins and plot the effect of drug binding. Note assessment rubric and submission instructions within document. (Submission deadline: 9:30am next **Th, 01/30/20**).    
 - The remainder of this units homework is all [via **DataCamp**](https://www.datacamp.com/){:.no-push-state}.   
  
