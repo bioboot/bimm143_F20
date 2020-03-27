@@ -45,7 +45,7 @@ Course introduction, Learning goals & expectations, Meet the instructional team.
 
 
 **Videos:**
-- 1.1 - [ß (intro to course)](https://youtu.be/LI-3ViDUO6c){:target="_blank"}  
+- 1.1 - [Welcome to BIMM143 (course introduction and overview)](https://youtu.be/LI-3ViDUO6c){:target="_blank"}  
 - 1.2 - [Website overview (finding course content and installing software)](https://www.youtube.com/watch?v=zjAjU3Z_oEI){:target="_blank"}  
 - 1.3 - [Meet the team (Barry, Alena & Hanqing)](https://youtu.be/UWVudbOmHnM){:target="_blank"} 
  
