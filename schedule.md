@@ -54,7 +54,8 @@ Course introduction, Learning goals & expectations, Meet the instructional team.
 - Handout: [Class Syllabus]({{ site.baseurl }}/class-material/BIMM143_S20_syllabus.pdf){:.no-push-state}{:target="_blank"},  
 - Pre-course [Questionnaire](https://forms.gle/9iP4PsU6UJ6MPfuo7){:target="_blank"},   
 - Computer [Setup Instructions]({{ site.baseurl }}/setup/).  
-- Office Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"}.   
+- Sign up for our [Piazza class Q&A site](https://piazza.com/ucsd/spring2020/bimm143/home){:target="_blank"},  
+- Office Hours: [Zoom on Thur @ 12:30pm SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"}.   
 
 
 
@@ -110,7 +111,7 @@ Sequence Alignment and Database Searching: Homology, Sequence similarity, Local 
 
 
 **Videos:**  
-- 3.1 - [Alignment fundamentals]()  
+- 3.1 - [Alignment fundamentals](https://www.youtube.com/watch?v=SU22pycFrDk){:.no-push-state}{:target="_blank"},    
 - 3.2 - [Dot plots]()  
 - 3.3 - [Dynamic programing, global alignment]()  
 - 3.4 - [Dynamic programing, local alignment]()  
