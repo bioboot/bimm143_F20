@@ -114,9 +114,9 @@ Sequence Alignment and Database Searching: Homology, Sequence similarity, Local 
 **Videos:**  
 - 3.1 - [Alignment fundamentals](https://www.youtube.com/watch?v=SU22pycFrDk){:.no-push-state}{:target="_blank"},    
 - 3.2 - [Dot plots](http://youtu.be/nnPNwlzX2qg){:.no-push-state}{:target="_blank"},    
-- 3.3 - [Dynamic programing, global alignment]()  
-- 3.4 - [Dynamic programing, local alignment]()  
-- 3.5 - [BLAST basics and search statistics]()   
+- 3.3 - [Dynamic programing, global alignment](https://youtu.be/LkwgI2mHbik){:.no-push-state}{:target="_blank"},    
+- 3.4 - [Dynamic programing, local alignment and BLAST basics]()  
+  
 
 **Supporting Material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture2-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture2-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},    
