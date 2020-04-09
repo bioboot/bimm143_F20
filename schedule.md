@@ -84,7 +84,7 @@ Biology is an information science, History of Bioinformatics, Types of data, App
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture1-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture1-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},      
 - Handout: [Major Bioinformatics Databases]({{ site.baseurl }}/class-material/Major_Databases_BIMM143.pdf){:.no-push-state}{:target="_blank"},  
 - Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab-2-BIMM143_online-form.pdf){:target="_blank"}{:.no-push-state},  
-- Lab: [Video walk-through]({{ site.baseurl }}/class-material/lab-vid/){:target="_blank"}{:.no-push-state}  
+- Lab: [Video walk-through](https://youtu.be/tv3Yt-wcXxY){:target="_blank"}{:.no-push-state}  
 - Office Hours: [Zoom on Thur @ 12:30pm SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
 - Feedback: [Muddy Point Assessment](https://forms.gle/fHMc1C5gd7hh5eog7){:.no-push-state}{:target="_blank"},    
 
@@ -115,7 +115,7 @@ Sequence Alignment and Database Searching: Homology, Sequence similarity, Local 
 - 3.1 - [Alignment fundamentals](https://www.youtube.com/watch?v=SU22pycFrDk){:.no-push-state}{:target="_blank"},    
 - 3.2 - [Dot plots](http://youtu.be/nnPNwlzX2qg){:.no-push-state}{:target="_blank"},    
 - 3.3 - [Dynamic programing, global alignment](https://youtu.be/LkwgI2mHbik){:.no-push-state}{:target="_blank"},    
-- 3.4 - [Dynamic programing, local alignment and BLAST basics]()  
+- 3.4 - [Dynamic programing, local alignment and BLAST basics](https://youtu.be/uhD77hnxM2g){:.no-push-state}{:target="_blank"},    
   
 
 **Supporting Material:**
@@ -132,6 +132,8 @@ Sequence Alignment and Database Searching: Homology, Sequence similarity, Local 
 - [Questions](https://forms.gle/z95D5XMvyYKWRrFq5){:.no-push-state}{:target="_blank"},  
 - For next week please [install R and RStudio](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu){:.no-push-state}{:target="_blank"},  
 - Complete the following [Alignment Problem]({{ site.baseurl }}/class-material/lecture2-BIMM134_homework.pdf){:.no-push-state}{:target="_blank"},  
+- DataCamp: Sign-up to our **BIMM143_S20 group/organization** via the link in your UCSD email (we will use this next week),   
+
 
 
 **Readings**:    
@@ -174,10 +176,9 @@ Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major
 
 
 **Videos:**
-- 4.1 [Why R]()  
-- 4.2 [Using RStudio]()  
-- 4.3 [Major R data structures, data types, and using functions]()
-- 4.4 [Using DataCamp (intro to R and intermediate R)]()
+- 4.1 [Why R and RStudio](https://youtu.be/Asm2PHOZAcE){:.no-push-state}{:target="_blank"},    
+- 4.2 [Major R data structures, data types, and using functions]()
+- 4.3 [Working with DataCamp (intro to R and intermediate R)]()
 
 **Supporting Material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture4-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture4-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
