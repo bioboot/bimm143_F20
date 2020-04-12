@@ -177,8 +177,8 @@ Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major
 
 **Videos:**
 - 4.1 [Why R and RStudio](https://youtu.be/Asm2PHOZAcE){:.no-push-state}{:target="_blank"},    
-- 4.2 [Major R data structures, data types, and using functions]()
-- 4.3 [Working with DataCamp (intro to R and intermediate R)]()
+- 4.2 [Major R data structures, data types, and using functions](http://youtu.be/3LOTxeQEHSM){:.no-push-state}{:target="_blank"},  
+- 4.3 [Working with DataCamp (Use your UCSD email invite to sign up and visit out class group/organization)](https://www.youtube.com/watch?v=q_GUl2YRoVk){:.no-push-state}{:target="_blank"},  
 
 **Supporting Material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture4-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture4-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
