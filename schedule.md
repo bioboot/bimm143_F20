@@ -230,7 +230,7 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
  
  
 **Homework**:   
-- This units homework is all [via **DataCamp** (*Intro to R*, and *Intermediate R*)](https://learn.datacamp.com/courses/intermediate-r){:.no-push-state}{:target="_blank"} (6hrs).   
+- DataCamp: [Introduction to Data Visualization with ggplot2](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2){:.no-push-state}{:target="_blank"} (~4hrs).   
  
 
 ---
@@ -260,9 +260,8 @@ Using R scripts and Rmarkdown files, Import data in various formats both local a
 
 
 **Homework**:   
-- Project: You should be working on [your project](#11),      
-- See **Q6** of the [hands-on lab sheet above]({{ site.baseurl }}/class-material/lecture6-BIMM143_W19.pdf){:.no-push-state}{:target="_blank"}. This entails turning a supplied code snippet into a more robust and re-usable function that will take any of the three listed input proteins and plot the effect of drug binding. Note assessment rubric and submission instructions within document. (Submission deadline: 9:30am next **Th, 01/30/20**).    
-- The remainder of this units homework is all [via **DataCamp**](https://www.datacamp.com/){:.no-push-state}.   
+- See **Q6** of the [hands-on lab sheet above]({{ site.baseurl }}/class-material/lecture6-BIMM143_W19.pdf){:.no-push-state}{:target="_blank"}. This entails turning a supplied code snippet into a more robust and re-usable function that will take any of the three listed input proteins and plot the effect of drug binding. Note assessment rubric and submission instructions within document. (Submission deadline: 12:00pm next **Tuesday, 05/12/20**).    
+- DataCamp: [Intermediate R](https://learn.datacamp.com/courses/intermediate-r){:.no-push-state}{:target="_blank"} compltete chapters 1-3 only (~4hrs).   
  
 
 
@@ -342,6 +341,11 @@ Topics: Longer hands-on session with unsupervised learning analysis of cancer ce
 
 - Bonus: [Kevin’s StackExchange Link on PCA](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa){:.no-push-state}{:target="_blank"}.   
 
+
+
+**Homework**:   
+- DataCamp: [Introduction to the Tidyverse](https://learn.datacamp.com/courses/introduction-to-the-tidyverse){:.no-push-state}{:target="_blank"} (~4hrs).   
+ 
 
 
 ---
