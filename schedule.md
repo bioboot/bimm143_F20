@@ -147,16 +147,17 @@ Sequence Alignment and Database Searching: Homology, Sequence similarity, Local 
 <br>
 
 
-## Week 4: (**Project:**) Find a Gene Assignment Part 1        
-The [**find-a-gene project**]({{ site.baseurl }}/class-material/Find_A_Gene_Project.pdf){:.no-push-state} is a required assignment for BIMM-143. The objective with this assignment is for you to demonstrate your grasp of database searching, sequence analysis, structure analysis and the R environment that we have covered to date in class.
 
+## (**Project:**) Find a Gene Assignment Part 1        
+The [**find-a-gene project**]({{ site.baseurl }}/class-material/Find_A_Gene_Project.pdf){:.no-push-state} is a required assignment for BIMM-143. The objective with this assignment is for you to demonstrate your grasp of database searching, sequence analysis, structure analysis and the R environment that we have covered to date in class.
+ 
 You may wish to consult the scoring rubric at the end of the above linked project description and the [**example report**]({{ site.baseurl }}/class-material/Find_A_Gene_Project_Example.pdf){:.no-push-state} for format and content guidance.  
  
-Your responses to questions Q1-Q4 are due **Monday May 4th** (05/04/20) at 12pm San Diego time.   
-
-The complete assignment, including responses to all questions, is **Friday June 5th** (06/05/20) at 12pm San Diego time.  
-
-Late responses will not be accepted under any circumstances.  
+Your responses to questions Q1-Q4 are due **Tuesday May 5th** (05/05/20) at 12pm San Diego time.   
+ 
+The complete assignment, including responses to all questions, is due **Friday June 5th** (06/05/20) at 12pm San Diego time.  
+ 
+Late responses will not be accepted under any circumstances.    
 
 
 ---
@@ -170,27 +171,27 @@ Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major
 **Goal:**
 - Understand why we use R for bioinformatics
 - Familiarity with R’s basic syntax,
-- Be able to use R to read and parse comma-separated (.csv) formatted files ready for subsequent analysis,
-- Familiarity with major R data structures (vectors, matrices and data.frames),
+- Familiarity with major R data structures (vectors, data.frames and lists),
 - Understand the basics of using functions (arguments, vectorizion and re-cycling).
 
 
 **Videos:**
 - 4.1 [Why R and RStudio](https://youtu.be/Asm2PHOZAcE){:.no-push-state}{:target="_blank"},    
 - 4.2 [Major R data structures, data types, and using functions](http://youtu.be/3LOTxeQEHSM){:.no-push-state}{:target="_blank"},  
-- 4.3 [Working with DataCamp (Use your UCSD email invite to sign up and visit out class group/organization)](https://www.youtube.com/watch?v=q_GUl2YRoVk){:.no-push-state}{:target="_blank"},  
+- 4.3 [Working with DataCamp](https://www.youtube.com/watch?v=q_GUl2YRoVk){:.no-push-state}{:target="_blank"}  (Use your UCSD email invite to sign up and visit out class group/organization),  
 
 **Supporting Material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture4-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture4-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
-- Lab: [Hands-on section 1]({{ site.baseurl }}/class-material/04_rintro/){:.no-push-state},  
-- Office Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
+- Lab: [Hands-on section]({{ site.baseurl }}/class-material/04_rintro/){:.no-push-state},  
+- Lab: [Video walk-through](https://youtu.be/BngLbEIgQlo){:target="_blank"}{:.no-push-state} focusing on [Project]({{ site.baseurl }}/class-material/Find_A_Gene_Project.pdf) live on Thur @ 10am SD time,   
+- Office Hours: [Zoom on Thur @ 12:30pm SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
 - Feedback: [Muddy point assessment](https://goo.gl/forms/d23JGkVJyr0EcpTg2){:.no-push-state}{:target="_blank"},  
   
 
 
 **Homework**:   
-- DataCamp: Sign-up to our **BIMM143_S20 group/organization** via the link in your UCSD email,   
-- DataCamp: Complete [Introduction to R!](https://learn.datacamp.com/courses/free-introduction-to-r){:.no-push-state}{:target="_blank"} (4hrs).  
+- [Questions](https://forms.gle/9uBet6MmqbH2Ro4c7){:.no-push-state}{:target="_blank"},  
+- **DataCamp**: Sign-up to our **BIMM143_S20 group/organization** via the link in your UCSD email and **complete** [**Introduction to R!**](https://learn.datacamp.com/courses/free-introduction-to-r){:.no-push-state}{:target="_blank"} (4hrs).  
     
 
 
@@ -207,7 +208,7 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
 - Appreciate the major elements of exploratory data analysis and why it is important to visualize data.  
 - Be conversant with data visualization best practices and understand how good visualizations optimize for the human visual system.  
 - Be able to generate informative graphical displays including scatterplots, histograms, bar graphs, boxplots, dendrograms and heatmaps and thereby gain exposure to the extensive graphical capabilities of R.  
-- Appreciate that you can build even more complex charts with ggplot and additional R packages such as rgl. !!To update!!
+- Appreciate that you can build even more complex charts with ggplot and additional R packages such as rgl. 
 
 
 **Videos:**
