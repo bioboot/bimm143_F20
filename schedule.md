@@ -178,14 +178,15 @@ Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major
 **Videos:**
 - 4.1 [Why R and RStudio](https://youtu.be/Asm2PHOZAcE){:.no-push-state}{:target="_blank"},    
 - 4.2 [Major R data structures, data types, and using functions](http://youtu.be/3LOTxeQEHSM){:.no-push-state}{:target="_blank"},  
-- 4.3 [Working with DataCamp](https://www.youtube.com/watch?v=q_GUl2YRoVk){:.no-push-state}{:target="_blank"}  (Use your UCSD email invite to sign up and visit out class group/organization),  
+- 4.3 [Working with DataCamp](https://www.youtube.com/watch?v=q_GUl2YRoVk){:.no-push-state}{:target="_blank"}  **N.B.** Use your UCSD email invite to sign up and visit our class group/organization.    
 
 **Supporting Material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture4-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture4-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
+- Cheat Sheet: [Base R overview]({{ site.baseurl }}/class-material/base-r.pdf){:target="_blank"}{:.no-push-state},
 - Lab: [Hands-on section]({{ site.baseurl }}/class-material/04_rintro/){:.no-push-state},  
-- Lab: [Video walk-through](https://youtu.be/BngLbEIgQlo){:target="_blank"}{:.no-push-state} focusing on [Project]({{ site.baseurl }}/class-material/Find_A_Gene_Project.pdf) live on Thur @ 10am SD time,   
+- Lab: [Video walk-through](https://youtu.be/BngLbEIgQlo){:target="_blank"}{:.no-push-state} focusing on introducing [Project]({{ site.baseurl }}/class-material/Find_A_Gene_Project.pdf){:target="_blank"}{:.no-push-state} assignment, live on Thur @ 10am SD time,   
 - Office Hours: [Zoom on Thur @ 12:30pm SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
-- Feedback: [Muddy point assessment](https://goo.gl/forms/d23JGkVJyr0EcpTg2){:.no-push-state}{:target="_blank"},  
+- Feedback: [Muddy point assessment](https://forms.gle/pGzaaSRGnQ1r9mrL9){:.no-push-state}{:target="_blank"},  
   
 
 
