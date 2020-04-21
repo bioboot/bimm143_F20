@@ -213,10 +213,11 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
 
 
 **Videos:**
-- 5.1 - [Using base plot]() 
-- 5.2 - [Introduction to ggplot]()
-- 5.3 - [Data visualization best practices]()
-- 5.4 - [Going further with ggplot course on DataCamp]()
+- 5.1 - [Why visualize data?](https://youtu.be/R_b7g5sGzwY){:.no-push-state}{:target="_blank"},   
+- 5.2 - [Data visualization best practices](https://youtu.be/0WPeOxrboug){:.no-push-state}{:target="_blank"},   
+- 5.3 - [Introduction to ggplot](https://youtu.be/qtfJa8muH9E){:.no-push-state}{:target="_blank"},   
+- 5.4 - Optional: [The **g**rammer of **g**raphics - the **gg** in ggplot](https://vimeo.com/332290655){:.no-push-state}{:target="_blank"},   
+
 
 **Supporting Material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture5-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture5-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
