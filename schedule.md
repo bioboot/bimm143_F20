@@ -157,7 +157,7 @@ Your responses to questions Q1-Q4 are due **Tuesday May 5th** (05/05/20) at 12pm
  
 The complete assignment, including responses to all questions, is due **Friday June 5th** (06/05/20) at 12pm San Diego time.  
  
-Late responses will not be accepted under any circumstances.    
+In both instances your PDF format report should be submitted to GradeScope. Late responses will not be accepted under any circumstances.    
 
 
 ---
