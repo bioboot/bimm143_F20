@@ -221,11 +221,8 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
 
 **Supporting Material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture5-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture5-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
-- Rmarkdown documents for [plot session 1]({{ site.baseurl }}/class-material/05_draw_circle_points/){:.no-push-state}{:target="_blank"}, and [more advanced plots]({{ site.baseurl }}/class-material/05_draw_lecture_plots2/){:.no-push-state}{:target="_blank"},  
-- Lab: [Hands-on worksheet]({{ site.baseurl }}/class-material/lecture5_lab_web.html){:.no-push-state}{:target="_blank"},
-- Lab: [Supplement: Plotting with color in R]({{ site.baseurl }}/class-material/Rcolor.html){:.no-push-state}{:target="_blank"}, 
-- Lab: [PDF supplement]({{ site.baseurl }}/class-material/lecture5-BIMM143_lab.pdf){:.no-push-state}{:target="_blank"}, 
-- Example data for hands-on sections [bimm143_05_rstats.zip]({{ site.baseurl }}/class-material/bimm143_05_rstats.zip){:.no-push-state},  
+- Lab: [Hands-on worksheet]({{ site.baseurl }}/class-material/ggplot_play.html){:.no-push-state}{:target="_blank"},
+- Lab: Live screencast [video walk-through](https://youtu.be/embeBPxY2HQ){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.
 - Office Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
 - Feedback: [Muddy point assessment](https://forms.gle/FJHD9Bnrmgj32Tk69){:.no-push-state}{:target="_blank"},  
  
