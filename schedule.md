@@ -216,7 +216,7 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
 - 5.1 - [Why visualize data?](https://youtu.be/R_b7g5sGzwY){:.no-push-state}{:target="_blank"},   
 - 5.2 - [Data visualization best practices](https://youtu.be/0WPeOxrboug){:.no-push-state}{:target="_blank"},   
 - 5.3 - [Introduction to ggplot](https://youtu.be/qtfJa8muH9E){:.no-push-state}{:target="_blank"},   
-- 5.4 - Optional: [The **g**rammer of **g**raphics - the **gg** in ggplot](https://vimeo.com/332290655){:.no-push-state}{:target="_blank"},   
+- 5.4 - Optional: [The **g**rammar of **g**raphics - the **gg** in ggplot](https://vimeo.com/332290655){:.no-push-state}{:target="_blank"},   
 
 
 **Supporting Material:**
