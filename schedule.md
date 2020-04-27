@@ -209,7 +209,9 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
 - Appreciate the major elements of exploratory data analysis and why it is important to visualize data.  
 - Be conversant with data visualization best practices and understand how good visualizations optimize for the human visual system.  
 - Be able to generate informative graphical displays including scatterplots, histograms, bar graphs, boxplots, dendrograms and heatmaps and thereby gain exposure to the extensive graphical capabilities of R.  
-- Appreciate that you can build even more complex charts with ggplot and additional R packages such as rgl. 
+- Appreciate that you can build even more complex charts with ggplot and additional R packages.  
+- Be able to write and (re)use basic R scripts to aid with reproducibility.  
+
 
 
 **Videos:**
@@ -228,70 +230,44 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
  
  
 **Homework**:   
-- DataCamp: [Introduction to Data Visualization with ggplot2](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2){:.no-push-state}{:target="_blank"} (~4hrs).   
+- DataCamp: [Introduction to Data Visualization with ggplot2](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2){:.no-push-state}{:target="_blank"} (~4hrs).    
+- SideNote: [Convincing with graphics](https://xkcd.com/833/){:.no-push-state}.   
  
 
 ---
 <a name="6"></a>
-## Week 6: The why, when and how of writing your own R functions
+## Week 6: R functions and R packages from CRAN and BioConductor
 
 **Topics:** 
-Using R scripts and Rmarkdown files, Import data in various formats both local and from online sources, The basics of writing your own functions that promote code robustness, reduce duplication and facilitate code re-use.
+The why, when and how of writing your own R functions with worked examples. Further extending functionality and utility with R packages, Obtaining R packages from CRAN and Bioconductor, Working with Bio3D for molecular data, Managing genome-scale data with bioconductor.
 
 **Goals:**
-- Be able to import data in various flat file formats from both local and online sources.
-- Understand the structure and syntax of R functions and how to view the code of any R function.
-- Understand when you should be writing functions.
-- Be able to follow a step by step process of going from a working code snippet to a more robust function.
-
-**Videos:**  
-- 6.1 - [Project introduction  (your find a gene assignment begins)]()
-- 6.2 - [Writing your own functions (why and when)]()
-- 6.3 - [Example function writing (how)]()
-- 6.4 - [Another function example]()
-
-**Supporting material:**
- Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture6-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture6-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},
-- Flat files for importing with read.table: [test1.txt]({{ site.baseurl }}/class-material/test1.txt){:.no-push-state}, [test2.txt]({{ site.baseurl }}/class-material/test2.txt){:.no-push-state}, [test3.txt]({{ site.baseurl }}/class-material/test3.txt){:.no-push-state}.  
-- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lecture6-BIMM143_W19.pdf){:.no-push-state}{:target="_blank"},  
-- Feedback: [Muddy point assessment](https://forms.gle/8EaXUypQFPKucYME8){:.no-push-state}{:target="_blank"},  
-
-
-**Homework**:   
-- See **Q6** of the [hands-on lab sheet above]({{ site.baseurl }}/class-material/lecture6-BIMM143_W19.pdf){:.no-push-state}{:target="_blank"}. This entails turning a supplied code snippet into a more robust and re-usable function that will take any of the three listed input proteins and plot the effect of drug binding. Note assessment rubric and submission instructions within document. (Submission deadline: 12:00pm next **Tuesday, 05/12/20**).    
-- DataCamp: [Intermediate R](https://learn.datacamp.com/courses/intermediate-r){:.no-push-state}{:target="_blank"} compltete chapters 1-3 only (~4hrs).   
- 
-
-
----
-<a name="12"></a>
-## Week 6: Bioinformatics R packages from CRAN and BioConductor
-
-**Topics:** 
-More on how to write R functions with worked examples. Further extending functionality and utility with R packages, Obtaining R packages from CRAN and Bioconductor, Working with Bio3D for molecular data, Managing genome-scale data with bioconductor.
-
-**Goals:**
+- Understand the structure and syntax of R functions and how to view the code of any R function,  
+- Be able to follow a step by step process of going from a working code snippet to a more robust function that reduces duplication and facilitate code re-use,    
 - Be able to find and install R packages from CRAN and bioconductor,  
-- Understand how to find and use package vignettes, demos, documentation, tutorials and source code repository where available.  
-- Be able to write and (re)use basic R scripts to aid with reproducibility.  
+- Understand how to find and use package vignettes, demos, documentation, tutorials and source code repository where available.    
 
 **Videos:**  
-- 6.5 - [Introduction to CRAN]()
-- 6.6 - [Introduction to BioConductor]()  
-- 6.7 - [How to best explore packages (using vignettes, GitHub, community forums and online tutorials)]()  
+- 6.1 - [Writing your own functions (why and when)]()
+- 6.2 - [Example function writing (how)]()
+- 6.3 - [Introduction to CRAN & BioConductor]()
+- 6.4 - [How to best explore packages (using vignettes, GitHub, community forums and online tutorials)]()  
 
 **Supporting material:**  
-- Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture07-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture07-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
+Lecture Slides: [Pt1. Large PDF]({{ site.baseurl }}/class-material/lecture6-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Pt1. Small PDF]({{ site.baseurl }}/class-material/lecture6-BIMM143-small.pdf){:.no-push-state}{:target="_blank"}, [Pt2. Large PDF]({{ site.baseurl }}/class-material/lecture07-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Pt2. Small PDF]({{ site.baseurl }}/class-material/lecture07-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
+- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lecture6-BIMM143_W19.pdf){:.no-push-state}{:target="_blank"},  
 - [Collaborative Google Doc based notes on selected R packages](https://docs.google.com/document/d/1dEYypb4mUNJFUhER9a9p7slQPmCsFt2XqGLla8K6fG8/edit?usp=sharing){:.no-push-state}{:target="_blank"},    
 - [Introductory tutorial on R packages](https://www.datacamp.com/community/tutorials/r-packages-guide){:.no-push-state}{:target="_blank"},  
-- Feedback: [Muddy point assessment](https://forms.gle/eUNPU9xAV2WLabu28){:.no-push-state}.      
-- SideNote: [Convincing with graphics](https://xkcd.com/833/){:.no-push-state}.   
- 
+- Feedback: [Muddy point assessment](https://forms.gle/Y8un1ziwe99GYq1r6){:.no-push-state}.  
+
  
 **Homework**:   
- See **Q6** from the last days [hands-on lab sheet above]({{ site.baseurl }}/class-material/lecture6-BIMM143_W19.pdf){:.no-push-state}. This entails turning a supplied code snippet into a more robust and re-usable function that will take any of the three listed input proteins and plot the effect of drug binding. Note assessment rubric and submission instructions within document. (Submission deadline: 9am **next class**).    
-- The remainder of this units homework is all [via **DataCamp**](https://www.datacamp.com/){:.no-push-state}.   
- 
+ - See **Q6** of the [hands-on lab sheet above]({{ site.baseurl }}/class-material/lecture6-BIMM143_W19.pdf){:.no-push-state}{:target="_blank"}. This entails turning a supplied code snippet into a more robust and re-usable function that will take any of the three listed input proteins and plot the effect of drug binding. Note assessment rubric and submission instructions within document. (Submission deadline: 12:00pm next **Tuesday, 05/12/20**).    
+- DataCamp: [Intermediate R](https://learn.datacamp.com/courses/intermediate-r){:.no-push-state}{:target="_blank"} compltete chapters 1-3 only (~4hrs).   
+
+
+**Other**:  
+- Flat files for practicing importing with read.table: [test1.txt]({{ site.baseurl }}/class-material/test1.txt){:.no-push-state}, [test2.txt]({{ site.baseurl }}/class-material/test2.txt){:.no-push-state}, [test3.txt]({{ site.baseurl }}/class-material/test3.txt){:.no-push-state}.  
 
 
 
@@ -337,7 +313,7 @@ Topics: Longer hands-on session with unsupervised learning analysis of cancer ce
 - Lab: [Hands-on section worksheet for PCA]({{ site.baseurl }}/class-material/lab-9-bimm143.html){:.no-push-state}{:target="_blank"},  
 - Data file: [WisconsinCancer.csv]({{ site.baseurl }}/class-material/WisconsinCancer.csv){:.no-push-state}, [new_samples.csv]({{ site.baseurl }}/class-material/new_samples.csv){:.no-push-state}.     
 
-- Bonus: [Kevin’s StackExchange Link on PCA](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa){:.no-push-state}{:target="_blank"}.   
+- Bonus: [StackExchange discussion on PCA](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa){:.no-push-state}{:target="_blank"}.   
 
 
 
