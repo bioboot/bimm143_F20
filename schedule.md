@@ -231,7 +231,9 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
  
 **Homework**:   
 - DataCamp: [Introduction to Data Visualization with ggplot2](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2){:.no-push-state}{:target="_blank"} (~4hrs).    
-- SideNote: [Convincing with graphics](https://xkcd.com/833/){:.no-push-state}.   
+- SideNote: [Convincing with graphics](https://xkcd.com/833/){:.no-push-state}.  
+- Check-out the new website: [Data-to-Viz](https://www.data-to-viz.com/){:.no-push-state}{:target="_blank"} and [ggplot cheat sheat](https://rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf){:.no-push-state}{:target="_blank"}.  
+
  
 
 ---
