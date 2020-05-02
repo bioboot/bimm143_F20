@@ -250,10 +250,8 @@ The why, when and how of writing your own R functions with worked examples. Furt
 - Understand how to find and use package vignettes, demos, documentation, tutorials and source code repository where available.    
 
 **Videos:**  
-- 6.1 - [Writing your own functions (why and when)]()
-- 6.2 - [Example function writing (how)]()
-- 6.3 - [Introduction to CRAN & BioConductor]()
-- 6.4 - [How to best explore packages (using vignettes, GitHub, community forums and online tutorials)]()  
+- 6.1 - [Writing your own functions (why, when and how)](https://www.youtube.com/watch?v=Z30gU8bowPU){:.no-push-state}{:target="_blank"},
+- 6.2 - [Introduction to CRAN & BioConductor](http://youtu.be/OyOzRiu3458){:.no-push-state}{:target="_blank"}.  
 
 **Supporting material:**  
 Lecture Slides: [Pt1. Large PDF]({{ site.baseurl }}/class-material/lecture6-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Pt1. Small PDF]({{ site.baseurl }}/class-material/lecture6-BIMM143-small.pdf){:.no-push-state}{:target="_blank"}, [Pt2. Large PDF]({{ site.baseurl }}/class-material/lecture07-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Pt2. Small PDF]({{ site.baseurl }}/class-material/lecture07-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
