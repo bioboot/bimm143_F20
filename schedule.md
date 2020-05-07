@@ -251,13 +251,15 @@ The why, when and how of writing your own R functions with worked examples. Furt
 
 **Videos:**  
 - 6.1 - [Writing your own functions (why, when and how)](https://www.youtube.com/watch?v=Z30gU8bowPU){:.no-push-state}{:target="_blank"},
-- 6.2 - [Introduction to CRAN & BioConductor](http://youtu.be/OyOzRiu3458){:.no-push-state}{:target="_blank"}.  
+- 6.2 - [Introduction to CRAN & BioConductor](http://youtu.be/OyOzRiu3458){:.no-push-state}{:target="_blank"},
+- 6.3 - Optional: [Getting started with RMarkdown](https://rstudio.com/resources/webinars/getting-started-with-r-markdown/){:.no-push-state}{:target="_blank"}.  
 
 **Supporting material:**  
 - Lecture Slides: [Pt1. Large PDF]({{ site.baseurl }}/class-material/lecture6-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Pt2. Large PDF]({{ site.baseurl }}/class-material/lecture07-BIMM143-large.pdf){:.no-push-state}{:target="_blank"},  
 - Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab_week6.pdf){:.no-push-state}{:target="_blank"},  
 - Lab supplement: [Hands-on section supplemental information]({{ site.baseurl }}/class-material/lecture6-BIMM143_W19.pdf){:.no-push-state}{:target="_blank"},    
 - Extra: [Introductory tutorial on R packages](https://www.datacamp.com/community/tutorials/r-packages-guide){:.no-push-state}{:target="_blank"},  
+- Office Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
 - Feedback: [Muddy point assessment](https://forms.gle/Y8un1ziwe99GYq1r6){:.no-push-state}.  
 
  
@@ -293,17 +295,18 @@ Unsupervised Learning Mini-Project
 Topics: Longer hands-on session with unsupervised learning analysis of cancer cells, Practical considerations and best practices for the analysis and visualization of high dimensional datasets.
 
 **Videos:**
-- 7.1 - [Introduction to unsupervised learning]()   
-- 7.2 - [Clustering: kmeans]()  
-- 7.3 - [Clustering: hclust]()  
-- 7.4 - [Principal component analysis (PCA and related methods)]()   
+- 7.1 - [Introduction to unsupervised learning and K-means clustering](http://youtu.be/k2QPXRtTons){:.no-push-state}{:target="_blank"},  
+- 7.2 - [Hierarchical clustering](http://youtu.be/L72a2QPzlRE){:.no-push-state}{:target="_blank"},  
+- 7.3 - [Principal component analysis (PCA) Pt.1](http://youtu.be/2Ja1BGlfKQo){:.no-push-state}{:target="_blank"},   
 - 7.4 - [Combining methods (using clustering and PCA together)]()  
 
 **Supporting material:**  
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture08-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture08-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
 - WebApp: [Introduction to PCA]({{ site.baseurl }}/class-material/pca/){:.no-push-state}{:target="_blank"},  
 - Lab: [Hands-on section worksheet for PCA]({{ site.baseurl }}/class-material/lab-8-bimm143.html){:.no-push-state}{:target="_blank"},  
-- Data files: [UK_foods.csv]({{ site.baseurl }}/class-material/UK_foods.csv){:.no-push-state},   
+- Data files: [UK_foods.csv]({{ site.baseurl }}/class-material/UK_foods.csv){:.no-push-state},
+- Office Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
+
 - Feedback: [Muddy point assessment](https://docs.google.com/forms/d/e/1FAIpQLSdiQn7n6XvvRGq5AfQWaRa7G22-twFCN4bYNANCWSK09DBYZg/viewform){:.no-push-state}.  
 
  
@@ -348,6 +351,8 @@ Genome sequencing technologies past, present and future (Sanger, Shotgun, PacBio
 - [Hands-on section worksheet]({{ site.baseurl }}/class-material/lecture13-BIMM143-lab.pdf){:.no-push-state}{:target="_blank"},
 - RNA-Seq data files: [HG00109_1.fastq]({{ site.baseurl }}/class-material/HG00109_1.fastq){:.no-push-state}, [HG00109_2.fastq]({{ site.baseurl }}/class-material/HG00109_2.fastq){:.no-push-state}, [genes.chr17.gtf]({{ site.baseurl }}/class-material/genes.chr17.gtf){:.no-push-state}, [Expression genotype results]({{ site.baseurl }}/class-material/rs8067378_ENSG00000172057.6.txt){:.no-push-state}, [Example R script]({{ site.baseurl }}/class-material/lecture13_plot.r){:.no-push-state}, [Example Rmd](https://github.com/bioboot/test_github/blob/master/lecture13_plot.md){:.no-push-state}.
 - [SAM/BAM file format description]({{ site.baseurl }}//class-material/sam_format/){:.no-push-state}{:target="_blank"}.  
+- Office Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
+
 - Feedback: [Muddy point assessment](https://forms.gle/Qx4UTSc4zkpafRvq9){:.no-push-state}{:target="_blank"}.  
 
 ## IPs     
@@ -396,6 +401,8 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture15_BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture15_BIMM143-small.pdf){:.no-push-state}.  
 - [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab-15-bimm143.html){:.no-push-state}{:target="_blank"},  
 - Data files: [GSE37704_featurecounts.csv]({{ site.baseurl }}/class-material/GSE37704_featurecounts.csv){:.no-push-state}, [GSE37704_metadata.csv]({{ site.baseurl }}/class-material/GSE37704_metadata.csv){:.no-push-state}.   
+- Office Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
+
 - Muddy point assessment
  
 
