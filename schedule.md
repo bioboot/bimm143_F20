@@ -281,9 +281,7 @@ The why, when and how of writing your own R functions with worked examples. Furt
 ## Week 7: Introduction to machine learning for Bioinformatics
 
 **Topics:** 
-The find-a-gene project is a required assignment for BIMM-143. The objective with this assignment is for you to demonstrate your grasp of database searching, sequence analysis, structure analysis and the R environment that we have covered to date in class.
-
-Unsupervised learning, supervised learning and reinforcement learning; Focus on unsupervised learning, K-means clustering, Hierarchical clustering, Heatmap representations. Dimensionality reduction, visualization and analysis, Principal Component Analysis (PCA) Practical considerations and best practices for the analysis of high dimensional datasets.
+Unsupervised learning, supervised learning and reinforcement learning; Focus on unsupervised learning, K-means clustering, Hierarchical clustering, Dimensionality reduction, visualization and analysis, Principal Component Analysis (PCA) Practical considerations and best practices for the analysis of high dimensional datasets.
 
 
 **Goal:**  
@@ -294,38 +292,37 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 - Be able to describe in general terms how PCA works and its major objectives.  
 - Be able to apply PCA to high dimensional datasets and visualize and integrate PCA results (e.g identify outliers, find structure in features and aid in complex dataset visualization).
 
-Unsupervised Learning Mini-Project
-Topics: Longer hands-on session with unsupervised learning analysis of cancer cells, Practical considerations and best practices for the analysis and visualization of high dimensional datasets.
+
 
 **Videos:**
 - 7.1 - [Introduction to unsupervised learning and K-means clustering](http://youtu.be/k2QPXRtTons){:.no-push-state}{:target="_blank"},  
 - 7.2 - [Hierarchical clustering](http://youtu.be/L72a2QPzlRE){:.no-push-state}{:target="_blank"},  
-- 7.3 - [Principal component analysis (PCA) Pt.1](http://youtu.be/2Ja1BGlfKQo){:.no-push-state}{:target="_blank"},   
-- 7.4 - [Combining methods (using clustering and PCA together)]()  
+- 7.3 - [Principal component analysis (PCA) Pt.1](http://youtu.be/2Ja1BGlfKQo){:.no-push-state}{:target="_blank"}.   
+  
 
 **Supporting material:**  
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture08-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture08-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
 - WebApp: [Introduction to PCA]({{ site.baseurl }}/class-material/pca/){:.no-push-state}{:target="_blank"},  
-- Lab: [Hands-on section worksheet for PCA]({{ site.baseurl }}/class-material/lab-8-bimm143.html){:.no-push-state}{:target="_blank"},  
-- Data files: [UK_foods.csv]({{ site.baseurl }}/class-material/UK_foods.csv){:.no-push-state},
-- Office Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
+- Lab: [Hands-on section worksheet for PCA]({{ site.baseurl }}/class-material/lab-wk7-bimm143.html){:.no-push-state}{:target="_blank"},  
+- Data files: [UK_foods.csv]({{ site.baseurl }}/class-material/UK_foods.csv){:.no-push-state}, [WisconsinCancer.csv]({{ site.baseurl }}/class-material/WisconsinCancer.csv){:.no-push-state}, [new_samples.csv]({{ site.baseurl }}/class-material/new_samples.csv){:.no-push-state}.  
+- Lab: Live screencast [video walk-through](https://youtu.be/5AiK2fSoE24){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.
+- Office Hours: [Zoom on Thur @ 12:30pm SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
 
 - Feedback: [Muddy point assessment](https://docs.google.com/forms/d/e/1FAIpQLSdiQn7n6XvvRGq5AfQWaRa7G22-twFCN4bYNANCWSK09DBYZg/viewform){:.no-push-state}.  
 
  
 
-**Other Material**:  
-- Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture09-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture09-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
-- Lab: [Hands-on section worksheet for PCA]({{ site.baseurl }}/class-material/lab-9-bimm143.html){:.no-push-state}{:target="_blank"},  
+**Homework**:   
+- DataCamp: [Introduction to the Tidyverse](https://learn.datacamp.com/courses/introduction-to-the-tidyverse){:.no-push-state}{:target="_blank"} (~4hrs).   
+- Mini-Project: [Unsupervised learning analysis of breast cancer cells]({{ site.baseurl }}/class-material/lab-9-bimm143.html){:.no-push-state}{:target="_blank"},  
 - Data file: [WisconsinCancer.csv]({{ site.baseurl }}/class-material/WisconsinCancer.csv){:.no-push-state}, [new_samples.csv]({{ site.baseurl }}/class-material/new_samples.csv){:.no-push-state}.     
+ 
 
+
+**Other Material**:  
 - Bonus: [StackExchange discussion on PCA](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa){:.no-push-state}{:target="_blank"}.   
 
 
-
-**Homework**:   
-- DataCamp: [Introduction to the Tidyverse](https://learn.datacamp.com/courses/introduction-to-the-tidyverse){:.no-push-state}{:target="_blank"} (~4hrs).   
- 
 
 
 ---
