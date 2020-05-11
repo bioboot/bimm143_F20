@@ -314,7 +314,7 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 
 **Homework**:   
 - DataCamp: [Introduction to the Tidyverse](https://learn.datacamp.com/courses/introduction-to-the-tidyverse){:.no-push-state}{:target="_blank"} (~4hrs).   
-- Mini-Project: [Unsupervised learning analysis of breast cancer cells]({{ site.baseurl }}/class-material/lab-9-bimm143.html){:.no-push-state}{:target="_blank"},  
+- Mini-Project: [Unsupervised learning analysis of breast cancer cells]({{ site.baseurl }}/class-material/wk7_miniproject.html){:.no-push-state}{:target="_blank"},  
 - Data file: [WisconsinCancer.csv]({{ site.baseurl }}/class-material/WisconsinCancer.csv){:.no-push-state}, [new_samples.csv]({{ site.baseurl }}/class-material/new_samples.csv){:.no-push-state}.     
  
 
