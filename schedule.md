@@ -341,10 +341,10 @@ Genome sequencing technologies past, present and future (Sanger, Shotgun, PacBio
 - Understand the SAM/BAM file format and the information it holds.  
 
 **Videos:**  
-- 8.1 - [Introduction to genomics]()  
-- 8.2 - [HTS Sequencing methods]()  
-- 8.3 - [Using Galaxy for HTS analysis]()  
-- 8.4 - [Overview of major analysis steps]()  
+- 8.1 - [Introduction to genomics](http://youtu.be/WpbE1dANSDU){:.no-push-state}{:target="_blank"},   
+- 8.2 - [Sequencing methods](https://www.ibiology.org/techniques/dna-sequencing/){:.no-push-state}{:target="_blank"} from Jonathan Weissman (UCSF),    
+- 8.3 - [The basics of RNASeq work-flows](){:.no-push-state}{:target="_blank"},   
+- 8.4 - Optional: [Lessons from the Human Genome Project](https://www.youtube.com/watch?v=qOW5e4BgEa4){:.no-push-state}{:target="_blank"}.   
 
 **Supporting material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture13_BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture13_BIMM143-small.pdf){:.no-push-state}{:target="_blank"},
