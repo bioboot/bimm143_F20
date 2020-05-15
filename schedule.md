@@ -343,7 +343,7 @@ Genome sequencing technologies past, present and future (Sanger, Shotgun, PacBio
 **Videos:**  
 - 8.1 - [Introduction to genomics](http://youtu.be/WpbE1dANSDU){:.no-push-state}{:target="_blank"},   
 - 8.2 - [Sequencing methods](https://www.ibiology.org/techniques/dna-sequencing/){:.no-push-state}{:target="_blank"} from Jonathan Weissman (UCSF),    
-- 8.3 - [The basics of RNASeq work-flows](){:.no-push-state}{:target="_blank"},   
+- 8.3 - [The basics of RNASeq work-flows](http://youtu.be/_JPAV9PBgnA){:.no-push-state}{:target="_blank"},   
 - 8.4 - Optional: [Lessons from the Human Genome Project](https://www.youtube.com/watch?v=qOW5e4BgEa4){:.no-push-state}{:target="_blank"}.   
 
 **Supporting material:**
