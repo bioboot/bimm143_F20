@@ -377,9 +377,9 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 - Perform a GO analysis to identify the pathways relevant to a set of genes (e.g. identified by transcriptomic study or a proteomic experiment). Use both Bioconductor packages and online tools to interpret gene lists and annotate potential gene functions.
 
 **Videos:**
-- 9.1 - [Differential Expression Analysis of RNA-Seq data](http://youtu.be/vn5Fy2VVWBw){:.no-push-state}{:target="_blank"},  
-- 9.2 - [Differential expression tests: DESeq2](){:.no-push-state}{:target="_blank"},    
-- 9.3 - [Pathway analysis and the interpretation of gene lists](){:.no-push-state}{:target="_blank"},    
+- 9.1 - [Differential expression analysis of RNA-Seq data](http://youtu.be/vn5Fy2VVWBw){:.no-push-state}{:target="_blank"},  
+- 9.2 - [Differential expression tests and pathway analysis](http://youtu.be/EIMK4TSnQLE){:.no-push-state}{:target="_blank"}.    
+- Lab screencast - [Live video walk-through](https://youtu.be/_hFjQvK2UdI){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.      
 
 
 **Supporting material:**
@@ -405,7 +405,7 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 
  
 **R Knowledge Check**:
-[**Quiz Assessment**](https://forms.gle/qnVdsaGCPii4z3DD6){:.no-push-state}{:target="_blank"}. 
+[**Quiz Assessment**](https://forms.gle/FppQDHdzRnQpJudP7){:.no-push-state}{:target="_blank"}. 
 
 
 
@@ -422,6 +422,7 @@ Summary of learning goals, Student course evaluation time; Find a gene assignmen
 - Unix for Bioinformatics
 - Structural Bioinformatics and computational drug design
 - Introduction to the tidyverse  
+- Bioinformatics and genomics in industry and beyond   
 
 
 ---
