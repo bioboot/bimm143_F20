@@ -385,8 +385,9 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 **Supporting material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture14_BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture14_BIMM143-small.pdf){:.no-push-state}{:target="_blank"}.
 - Detailed [Bioconductor setup]({{ site.baseurl }}//class-material/bioconductor_setup/){:.no-push-state}{:target="_blank"} instructions.
-- [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab-14-bimm143.html){:.no-push-state}{:target="_blank"},
-- Data files: [airway_scaledcounts.csv]({{ site.baseurl }}/class-material/airway_scaledcounts.csv){:.no-push-state}, [airway_metadata.csv]({{ site.baseurl }}/class-material/airway_metadata.csv){:.no-push-state}, [annotables_grch38.csv]({{ site.baseurl }}/class-material/annotables_grch38.csv){:.no-push-state}.
+- Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/week09_lab_bimm143){:.no-push-state}{:target="_blank"},  
+- Lab: Live screencast [video walk-through](https://youtu.be/_hFjQvK2UdI){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.  
+- Data files: [airway_scaledcounts.csv]({{ site.baseurl }}/class-material/airway_scaledcounts.csv){:.no-push-state}, [airway_metadata.csv]({{ site.baseurl }}/class-material/airway_metadata.csv){:.no-push-state}.  
 - Office Hours: [Zoom on Thur @ 12:30pm SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
 - [Muddy point assessment](https://goo.gl/forms/CjzYyzBT0VsuOvBt2){:.no-push-state}.  
 
@@ -394,26 +395,18 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 **Readings**:
  - Excellent review article: [Conesa et al. A survey of best practices for RNA-seq data analysis. _Genome Biology_ 17:13 (2016)](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8){:.no-push-state}.
  - An oldey but a goodie: [Soneson et al. "Differential analyses for RNA-seq: transcript-level estimates improve gene-level inferences." _F1000Research_ 4 (2015)](https://f1000research.com/articles/4-1521/v2).
- - Abstract and introduction sections of: [Himes et al. "RNA-Seq transcriptome profiling identifies CRISPLD2 as a glucocorticoid responsive gene that modulates cytokine function in airway smooth muscle cells." _PLoS ONE_ 9.6 (2014): e99625](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099625){:.no-push-state}.
+ - Good review article: Trapnell C, Hendrickson DG, Sauvageau M, Goff L et al. "*Differential analysis of gene regulation at transcript resolution with RNA-seq*". Nat Biotechnol 2013 Jan;31(1):46-53. [PMID: 23222703](https://www.ncbi.nlm.nih.gov/pubmed/23222703){:.no-push-state}.   
+ - Abstract and introduction sections of: [Himes et al. "RNA-Seq transcriptome profiling identifies CRISPLD2 as a glucocorticoid responsive gene that modulates cytokine function in airway smooth muscle cells." _PLoS ONE_ 9.6 (2014): e99625](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099625){:.no-push-state}.  
 
 
-
-
-**More?**
-- Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture15_BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture15_BIMM143-small.pdf){:.no-push-state}.  
-- [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab-15-bimm143.html){:.no-push-state}{:target="_blank"},  
+**Optional extension exercises:**
+- Optional extension lab: [Hands-on worksheet]({{ site.baseurl }}/class-material/lab-15-bimm143.html){:.no-push-state}{:target="_blank"},  
 - Data files: [GSE37704_featurecounts.csv]({{ site.baseurl }}/class-material/GSE37704_featurecounts.csv){:.no-push-state}, [GSE37704_metadata.csv]({{ site.baseurl }}/class-material/GSE37704_metadata.csv){:.no-push-state}.   
-- Office Hours: [Zoom on Thur @ 10am SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"},   
 
-- Muddy point assessment
  
-
 **R Knowledge Check**:
 [**Quiz Assessment**](https://forms.gle/qnVdsaGCPii4z3DD6){:.no-push-state}{:target="_blank"}. 
 
-
-**Readings**:    
- - Good review article: Trapnell C, Hendrickson DG, Sauvageau M, Goff L et al. "*Differential analysis of gene regulation at transcript resolution with RNA-seq*". Nat Biotechnol 2013 Jan;31(1):46-53. [PMID: 23222703](https://www.ncbi.nlm.nih.gov/pubmed/23222703){:.no-push-state}.  
 
 
 ---
