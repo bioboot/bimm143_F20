@@ -414,8 +414,18 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 ## Week 10: Course wrap up, project completion
 
 **Topics:** 
-Summary of learning goals, Student course evaluation time; Find a gene assignment due. Open study. Student topic of choice from those below:
+Summary of learning goals, Student course evaluation time; Find a gene assignment due. Open study. Student selected topic:
 
+
+**Bioinformatics and genomics in industry and beyond**  
+
+- Video [**live stream interview**](https://youtu.be/UFYeovcGcwY){:.no-push-state}{:target="_blank"} with leading bioinformatics and genomics scientists from industry including **Dr Ali Crawford** (Associate Director, Scientific Research, *Illumina Inc.*), **Dr. Bjoern Peters** (Full Professor and Principal Investigator, *La Jolla Institute*) and **Dr. Ana Grant** (Director of Research Informatics, *Synthetic Genomics Inc.*).
+
+- Submit [your questions here](https://piazza.com/class/k80g6xd4ijjjo?cid=68){:.no-push-state}{:target="_blank"}.
+
+
+**Side-note:**
+Student topic of choice was selected from those below:
 
 - Biological network analysis
 - Cancer genomics
@@ -423,33 +433,4 @@ Summary of learning goals, Student course evaluation time; Find a gene assignmen
 - Structural Bioinformatics and computational drug design
 - Introduction to the tidyverse  
 - Bioinformatics and genomics in industry and beyond   
-
-
----
-
-
-
-  
-**Screen Casts**:  
-
-<br/>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P2oSO7YPyfU?rel=0" frameborder="0" allowfullscreen></iframe>
-**1 Welcome to BIMM-143:**
-Course introduction and logistics.
-{:.message}  
-
-<br/>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gJNXQfpErLY?rel=0" frameborder="0" allowfullscreen></iframe>
-**2 What is Bioinformatics?**
-Bioinformatics can mean different things to different people. What will we actually learn in this class?
-{:.message}  
-
-<br/>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cCim7LrQZLY?rel=0" frameborder="0" allowfullscreen></iframe>
-**3 How do we do Bioinformatics?**
-Some basic bioinformatics can be done online or with downloaded tools. However, most often we will need a specialized computational setup.
-{:.message}  
 
