@@ -6,23 +6,24 @@ order: 2
 ---
 
 
-All course delivery for Spring 2020 will be online via this public facing website.  New class content will be posted on a weekly basis throughout the quarter.  Clicking on the topics below will take you to corresponding video lectures, hands-on "lab sessions" supporting walk-through screencasts, required reading material and homework assignments.
+All course delivery for Fall 2020 will be online via this public facing website.  New class content will be posted on a weekly basis throughout the quarter.  Clicking on the topics below will take you to corresponding video lectures, hands-on "lab sessions" supporting walk-through screencasts, required reading material and homework assignments.
 
 <br>
 
-| \# | Week         | Topics for Spring 2020                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| \# | Week         | Topics for Fall 2020                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | :-: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1  | 03/30/20 | [**Getting Oriented**](#1) <br> Course introduction, Learning goals & expectations, Meet the instructional team. Setup your computer with required software.                                                                                                                                               |
-| 2  | 04/06/20 | [**Welcome to Bioinformatics**](#2) <br> Biology is an information science, History of Bioinformatics, Types of data, Application areas and introduction to upcoming course segments, Hands on with major Bioinformatics databases and key online NCBI and EBI resources                                                                                                                                               |
-| 3  | 04/13/20 | [**Sequence alignment fundamentals, algorithms and applications**](#3) <br> Homology, Sequence similarity, Local and global alignment, classic Needleman-Wunsch, Smith-Waterman and BLAST heuristic approaches, Hands on with dot plots, Needleman-Wunsch and BLAST algorithms highlighting their utility and limitations                                                                                                                                                 |
-| *  | 04/20/20  | **Project:** [**Find a gene project assignment**](#11) <br> (Part 1) Principles of database searching, due in 3 weeks. (Part 2) Sequence analysis, structure analysis and general data analysis with R due at the end of the quarter.                                                                                                                                                                                                 |
-| 4  | 04/20/20  | [**Bioinformatics data analysis with R**](#4) <br> Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major R data structures and functions, Using R interactively from the RStudio console                                                                                                                                                                                                                                          |
-| 5  | 04/27/20  | [**Data exploration and visualization in R**](#5) <br> The exploratory data analysis mindset, Data visualization best practices, Simple base graphics (including scatterplots, histograms, bar graphs, dot chats, boxplots and heatmaps), Building more complex charts with ggplot.                                                                                                                                                                                                                                                       |
-| 6  | 05/04/20 | [**Writing your own R functions and using packages from CRAN,  BioConductor and GitHub**](#6) <br> The basics of writing your own functions that promote code robustness, reduce duplication and facilitate code re-use. Extending functionality and utility with R packages from CRAN and BioConductor, Working with Bio3D for molecular data. <br> **Project: Pt 1. Q1-Q4 due\!**                                                                                                                                                                                                                                                                                      |
-| 7  | 05/11/20  | [**Machine learning for Bioinformatics**](#7) <br> Unsupervised learning, K-means clustering, Hierarchical clustering, Heatmap representations. Dimensionality reduction, Principal Component Analysis (PCA)                                                                                                                                                                                                                                                            |
-| 8  | 05/18/20  | [**Genome informatics and high throughput sequencing**](#8) <br> Searching genes and gene functions, Genome databases, Variation in the Genome, High-throughput sequencing technologies, biological applications, bioinformatics analysis methods; The Galaxy platform along with resources from the EBI & UCSC                                                                                                                                                                                                                                                            |
-| 9  | 05/25/20  | [**Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists**](#9) <br> RNA-Seq aligners, Differential expression tests, RNA-Seq statistics, Counts and FPKMs and avoiding P-value misuse, Hands-on analysis of RNA-Seq data with R. Gene function annotation, Functional databases KEGG, InterPro, GO ontologies and functional enrichment analysis.                                                                                                                                                                                                                                            |
-| 10  | 06/01/20  | [**Course summary**](#10) <br> Summary of learning goals, Student course evaluation time; <br> **Project: Find a gene assignment due\!**                                                                                                                                                                                                              |
+| 0  | 10/01/20 | [**Getting Oriented**](#0) <br> Course introduction, Learning goals & expectations, Meet the instructional team. Setup your computer with required software.                                                                                                                                               |
+| 1  | 10/05/20 | [**Welcome to Bioinformatics**](#1) <br> Biology is an information science, History of Bioinformatics, Types of data, Application areas and introduction to upcoming course segments, Hands on with major Bioinformatics databases and key online NCBI and EBI resources                                                                                                                                               |
+| 2  | 10/12/20 | [**Sequence alignment fundamentals, algorithms and applications**](#2) <br> Homology, Sequence similarity, Local and global alignment, classic Needleman-Wunsch, Smith-Waterman and BLAST heuristic approaches, Hands on with dot plots, Needleman-Wunsch and BLAST algorithms highlighting their utility and limitations                                                                                                                                                 |
+| *  | 10/19/20  | **Project:** [**Find a gene project assignment**](#11) <br> (Part 1) Principles of database searching, due in 3 weeks. (Part 2) Sequence analysis, structure analysis and general data analysis with R due at the end of the quarter.                                                                                                                                                                                                 |
+| 3  | 10/19/20  | [**Bioinformatics data analysis with R**](#3) <br> Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major R data structures and functions, Using R interactively from the RStudio console                                                                                                                                                                                                                                          |
+| 4  | 10/26/20  | [**Data exploration and visualization in R**](#4) <br> The exploratory data analysis mindset, Data visualization best practices, Simple base graphics (including scatterplots, histograms, bar graphs, dot chats, boxplots and heatmaps), Building more complex charts with ggplot.                                                                                                                                                                                                                                                       |
+| 5  | 11/02/20 | [**Writing your own R functions and using packages from CRAN,  BioConductor and GitHub**](#5) <br> The basics of writing your own functions that promote code robustness, reduce duplication and facilitate code re-use. Extending functionality and utility with R packages from CRAN and BioConductor, Working with Bio3D for molecular data. <br> **Project: Pt 1. Q1-Q4 due\!**                                                                                                                                                                                                                                                                                      |
+| 6  | 11/09/20  | [**Machine learning for Bioinformatics**](#6) <br> Unsupervised learning, K-means clustering, Hierarchical clustering, Heatmap representations. Dimensionality reduction, Principal Component Analysis (PCA)                                                                                                                                                                                                                                                            |
+| 7  | 11/16/20  | [**Genome informatics and high throughput sequencing**](#7) <br> Searching genes and gene functions, Genome databases, Variation in the Genome, High-throughput sequencing technologies, biological applications, bioinformatics analysis methods; The Galaxy platform along with resources from the EBI & UCSC                                                                                                                                                                                                                                                            |
+| 8  | 11/23/20  | [**Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists**](#8) <br> RNA-Seq aligners, Differential expression tests, RNA-Seq statistics, Counts and FPKMs and avoiding P-value misuse, Hands-on analysis of RNA-Seq data with R. Gene function annotation, Functional databases KEGG, InterPro, GO ontologies and functional enrichment analysis.                                                                                                                                                                                                                                            |
+| 9  | 11/30/20  | [**Transcriptomics, RNA-Seq analysis II**](#9) <br> More hands-on analysis of RNA-Seq data with R. Gene function annotation, Functional databases KEGG, InterPro, GO ontologies and functional enrichment analysis.                                                                                                                                                                                                                                            |
+| 10  | 12/07/20  | [**Course summary**](#10) <br> Summary of learning goals, Student course evaluation time; <br> **Project: Find a gene assignment due\!**                                                                                                                                                                                                              |
 
 
 
@@ -32,8 +33,8 @@ All course delivery for Spring 2020 will be online via this public facing websit
 
 
 
-<a name="1"></a>
-## Week 1: Getting oriented
+<a name="0"></a>
+## Week 0: Getting oriented
 
 **Topics:**  
 Course introduction, Learning goals & expectations, Meet the instructional team. Setup your computer with required software.   
@@ -45,24 +46,24 @@ Course introduction, Learning goals & expectations, Meet the instructional team.
 
 
 **Videos:**
-- 1.1 - [Welcome to BIMM143 (course introduction and overview)](https://youtu.be/LI-3ViDUO6c){:target="_blank"}  
-- 1.2 - [Website overview (finding course content and installing software)](https://www.youtube.com/watch?v=zjAjU3Z_oEI){:target="_blank"}  
-- 1.3 - [Meet the team (Barry, Alena & Hanqing)](https://youtu.be/UWVudbOmHnM){:target="_blank"} 
+- 0.1 - [Welcome to BIMM143 (course introduction and overview)](https://youtu.be/LI-3ViDUO6c){:target="_blank"}  
+- 0.2 - [Website overview (finding course content and installing software)](https://www.youtube.com/watch?v=zjAjU3Z_oEI){:target="_blank"}  
+- 0.3 - [Meet the team (Barry, Alena & Hanqing)](https://youtu.be/UWVudbOmHnM){:target="_blank"} 
  
 
 **Supporting material:**  
-- Handout: [Class Syllabus]({{ site.baseurl }}/class-material/BIMM143_S20_syllabus.pdf){:.no-push-state}{:target="_blank"},  
-- Pre-course [Questionnaire](https://forms.gle/9iP4PsU6UJ6MPfuo7){:target="_blank"},   
+- Handout: [Class Syllabus]({{ site.baseurl }}/class-material/BIMM143_F20_syllabus.pdf){:.no-push-state}{:target="_blank"},  
+- Pre-course [Questionnaire](https://forms.gle/sZCwknXUm8W5T1v2A){:target="_blank"},   
 - Computer [Setup Instructions]({{ site.baseurl }}/setup/).  
-- Sign up for our [Piazza class Q&A site](https://piazza.com/ucsd/spring2020/bimm143/home){:target="_blank"},  
-- Office Hours: [Zoom on Thur @ 12:30pm SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"}.   
+- Sign up for our [Piazza class Q&A site](https://piazza.com/ucsd/fall2020/bimm143/home){:target="_blank"},  
+- Office Hours: **TO UPDATE** [Zoom on Thur @ 12:30pm SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"}.   
 
 
 
 ---
 
-<a name="2"></a>
-## Week 2: Welcome to Bioinformatics
+<a name="1"></a>
+## Week 1: Welcome to Bioinformatics
 
 **Topics:**
 Biology is an information science, History of Bioinformatics, Types of data, Application areas and introduction to upcoming course segments, Introduction to NCBI & EBI resources for the molecular domain of bioinformatics, Hands-on session using NCBI-BLAST, Entrez, GENE, UniProt, Muscle and PDB bioinformatics tools and databases.
@@ -75,9 +76,9 @@ Biology is an information science, History of Bioinformatics, Types of data, App
 
 
 **Videos:**
-- 2.1 - [Introduction to bioinformatics (what, where and why of bioinformatics)](https://youtu.be/FNXMFXZR6HU){:.no-push-state}{:target="_blank"},  
-- 2.2 - [Major bioinformatics resource providers (NCBI and EBI)](https://youtu.be/zUK7c9J1KGU){:.no-push-state}{:target="_blank"},  
-- 2.3 - [A quick tour of major NCBI and EBI resources (GENE, UniProt, GO, OMIM, PDB, PFAM)](https://youtu.be/k77QilYmrfk){:.no-push-state}{:target="_blank"}.    
+- 1.1 - [Introduction to bioinformatics (what, where and why of bioinformatics)](https://youtu.be/FNXMFXZR6HU){:.no-push-state}{:target="_blank"},  
+- 1.2 - [Major bioinformatics resource providers (NCBI and EBI)](https://youtu.be/zUK7c9J1KGU){:.no-push-state}{:target="_blank"},  
+- 1.3 - [A quick tour of major NCBI and EBI resources (GENE, UniProt, GO, OMIM, PDB, PFAM)](https://youtu.be/k77QilYmrfk){:.no-push-state}{:target="_blank"}.    
 
 
 **Supporting Material**:  
@@ -98,8 +99,8 @@ Biology is an information science, History of Bioinformatics, Types of data, App
 
 ---
 
-<a name="3"></a>
-## Week 3: Sequence alignment fundamentals, algorithms and applications
+<a name="2"></a>
+## Week 2: Sequence alignment fundamentals, algorithms and applications
 
 **Topics:**
 Sequence Alignment and Database Searching: Homology, Sequence similarity, Local and global alignment, Heuristic approaches, Database searching with BLAST, E-values and evaluating alignment scores and statistics.
@@ -112,10 +113,10 @@ Sequence Alignment and Database Searching: Homology, Sequence similarity, Local 
 
 
 **Videos:**  
-- 3.1 - [Alignment fundamentals](https://www.youtube.com/watch?v=SU22pycFrDk){:.no-push-state}{:target="_blank"},    
-- 3.2 - [Dot plots](http://youtu.be/nnPNwlzX2qg){:.no-push-state}{:target="_blank"},    
-- 3.3 - [Dynamic programing, global alignment](https://youtu.be/LkwgI2mHbik){:.no-push-state}{:target="_blank"},    
-- 3.4 - [Dynamic programing, local alignment and BLAST basics](https://youtu.be/uhD77hnxM2g){:.no-push-state}{:target="_blank"},    
+- 2.1 - [Alignment fundamentals](https://www.youtube.com/watch?v=SU22pycFrDk){:.no-push-state}{:target="_blank"},    
+- 2.2 - [Dot plots](http://youtu.be/nnPNwlzX2qg){:.no-push-state}{:target="_blank"},    
+- 2.3 - [Dynamic programing, global alignment](https://youtu.be/LkwgI2mHbik){:.no-push-state}{:target="_blank"},    
+- 2.4 - [Dynamic programing, local alignment and BLAST basics](https://youtu.be/uhD77hnxM2g){:.no-push-state}{:target="_blank"},    
   
 
 **Supporting Material:**
@@ -153,16 +154,16 @@ The [**find-a-gene project**]({{ site.baseurl }}/class-material/Find_A_Gene_Proj
  
 You may wish to consult the scoring rubric at the end of the above linked project description and the [**example report**]({{ site.baseurl }}/class-material/Find_A_Gene_Project_Example.pdf){:.no-push-state} for format and content guidance.  
  
-Your responses to questions Q1-Q4 are due **Tuesday May 5th** (05/05/20) at 12pm San Diego time.   
+Your responses to questions Q1-Q4 are due **Tuesday Nov 3rd** (11/03/20) at 12pm San Diego time.   
  
-The complete assignment, including responses to all questions, is due **Friday June 5th** (06/05/20) at 12pm San Diego time.  
+The complete assignment, including responses to all questions, is due **Friday Dec 11th** (12/11/20) at 12pm San Diego time.  
  
 In both instances your PDF format report should be submitted to GradeScope. Late responses will not be accepted under any circumstances.    
 
 
 ---
-<a name="4"></a>
-## Week 4: Bioinformatics data analysis with R
+<a name="3"></a>
+## Week 3: Bioinformatics data analysis with R
 
 
 **Topics:**
@@ -176,9 +177,9 @@ Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major
 
 
 **Videos:**
-- 4.1 [Why R and RStudio](https://youtu.be/Asm2PHOZAcE){:.no-push-state}{:target="_blank"},    
-- 4.2 [Major R data structures, data types, and using functions](http://youtu.be/3LOTxeQEHSM){:.no-push-state}{:target="_blank"},  
-- 4.3 [Working with DataCamp](https://www.youtube.com/watch?v=q_GUl2YRoVk){:.no-push-state}{:target="_blank"}  **N.B.** Use your UCSD email invite to sign up and visit our class group/organization.    
+- 3.1 [Why R and RStudio](https://youtu.be/Asm2PHOZAcE){:.no-push-state}{:target="_blank"},    
+- 3.2 [Major R data structures, data types, and using functions](http://youtu.be/3LOTxeQEHSM){:.no-push-state}{:target="_blank"},  
+- 3.3 [Working with DataCamp](https://www.youtube.com/watch?v=q_GUl2YRoVk){:.no-push-state}{:target="_blank"}  **N.B.** Use your UCSD email invite to sign up and visit our class group/organization.    
 
 **Supporting Material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture4-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture4-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},  
@@ -192,14 +193,14 @@ Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major
 
 **Homework**:   
 - [Questions](https://forms.gle/9uBet6MmqbH2Ro4c7){:.no-push-state}{:target="_blank"},  
-- **DataCamp**: Sign-up to our **BIMM143_S20 group/organization** via the link in your UCSD email and **complete** [**Introduction to R!**](https://learn.datacamp.com/courses/free-introduction-to-r){:.no-push-state}{:target="_blank"} (4hrs).  
+- **DataCamp**: Sign-up to our **BIMM143_F20 group/organization** via the link in your UCSD email and **complete** [**Introduction to R!**](https://learn.datacamp.com/courses/free-introduction-to-r){:.no-push-state}{:target="_blank"} (4hrs).  
     
 
 
 
 ---
-<a name="5"></a>
-## Week 5: Data exploration and visualization in R
+<a name="4"></a>
+## Week 4: Data exploration and visualization in R
 
 **Topics:** 
 The exploratory data analysis mindset, Data visualization best practices, Simple base graphics (including scatterplots, histograms, bar graphs, dot chats, boxplots and heatmaps), Building more complex charts with ggplot.
@@ -215,10 +216,10 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
 
 
 **Videos:**
-- 5.1 - [Why visualize data?](https://youtu.be/R_b7g5sGzwY){:.no-push-state}{:target="_blank"},   
-- 5.2 - [Data visualization best practices](https://youtu.be/0WPeOxrboug){:.no-push-state}{:target="_blank"},   
-- 5.3 - [Introduction to ggplot](https://youtu.be/qtfJa8muH9E){:.no-push-state}{:target="_blank"},   
-- 5.4 - Optional: [The **g**rammar of **g**raphics - the **gg** in ggplot](https://vimeo.com/332290655){:.no-push-state}{:target="_blank"},   
+- 4.1 - [Why visualize data?](https://youtu.be/R_b7g5sGzwY){:.no-push-state}{:target="_blank"},   
+- 4.2 - [Data visualization best practices](https://youtu.be/0WPeOxrboug){:.no-push-state}{:target="_blank"},   
+- 4.3 - [Introduction to ggplot](https://youtu.be/qtfJa8muH9E){:.no-push-state}{:target="_blank"},   
+- 4.4 - Optional: [The **g**rammar of **g**raphics - the **gg** in ggplot](https://vimeo.com/332290655){:.no-push-state}{:target="_blank"},   
 
 
 **Supporting Material:**
@@ -237,8 +238,8 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
  
 
 ---
-<a name="6"></a>
-## Week 6: R functions and R packages from CRAN and BioConductor
+<a name="5"></a>
+## Week 5: R functions and R packages from CRAN and BioConductor
 
 **Topics:** 
 The why, when and how of writing your own R functions with worked examples. Further extending functionality and utility with R packages, Obtaining R packages from CRAN and Bioconductor, Working with Bio3D for molecular data, Managing genome-scale data with bioconductor.
@@ -250,10 +251,10 @@ The why, when and how of writing your own R functions with worked examples. Furt
 - Understand how to find and use package vignettes, demos, documentation, tutorials and source code repository where available.    
 
 **Videos:**  
-- 6.1 - [Writing your own functions (why, when and how)](https://www.youtube.com/watch?v=Z30gU8bowPU){:.no-push-state}{:target="_blank"},
-- 6.2 - [Introduction to CRAN & BioConductor](http://youtu.be/OyOzRiu3458){:.no-push-state}{:target="_blank"},
-- 6.3 - [Quick introduction to RMarkdown](https://www.youtube.com/watch?v=O7GMs9V3HQk){:.no-push-state}{:target="_blank"},  
-- 6.4 - Optional longer video: [Getting started with RMarkdown](https://rstudio.com/resources/webinars/getting-started-with-r-markdown/){:.no-push-state}{:target="_blank"}.  
+- 5.1 - [Writing your own functions (why, when and how)](https://www.youtube.com/watch?v=Z30gU8bowPU){:.no-push-state}{:target="_blank"},
+- 5.2 - [Introduction to CRAN & BioConductor](http://youtu.be/OyOzRiu3458){:.no-push-state}{:target="_blank"},
+- 5.3 - [Quick introduction to RMarkdown](https://www.youtube.com/watch?v=O7GMs9V3HQk){:.no-push-state}{:target="_blank"},  
+- 5.4 - Optional longer video: [Getting started with RMarkdown](https://rstudio.com/resources/webinars/getting-started-with-r-markdown/){:.no-push-state}{:target="_blank"}.  
 
 
 **Supporting material:**  
@@ -267,7 +268,7 @@ The why, when and how of writing your own R functions with worked examples. Furt
 
  
 **Homework**:   
- - See **Q6** of the [hands-on lab supplement above]({{ site.baseurl }}/class-material/lecture6-BIMM143_W19.pdf){:.no-push-state}{:target="_blank"}. This entails turning a supplied code snippet into a more robust and re-usable function that will take any of the three listed input proteins and plot the effect of drug binding. Note assessment rubric and submission instructions within document. (Submission deadline: 12:00pm next **Tuesday, 05/12/20**).    
+ - See **Q6** of the [hands-on lab supplement above]({{ site.baseurl }}/class-material/lecture6-BIMM143_W19.pdf){:.no-push-state}{:target="_blank"}. This entails turning a supplied code snippet into a more robust and re-usable function that will take any of the three listed input proteins and plot the effect of drug binding. Note assessment rubric and submission instructions within document. (Submission deadline: 12:00pm next **Tuesday, 11/10/20**).    
 - DataCamp: [Intermediate R](https://learn.datacamp.com/courses/intermediate-r){:.no-push-state}{:target="_blank"} compltete chapters 1-3 only (~4hrs).   
 
 
@@ -277,8 +278,8 @@ The why, when and how of writing your own R functions with worked examples. Furt
 
 
 ---
-<a name="7"></a>
-## Week 7: Introduction to machine learning for Bioinformatics
+<a name="6"></a>
+## Week 6: Introduction to machine learning for Bioinformatics
 
 **Topics:** 
 Unsupervised learning, supervised learning and reinforcement learning; Focus on unsupervised learning, K-means clustering, Hierarchical clustering, Dimensionality reduction, visualization and analysis, Principal Component Analysis (PCA) Practical considerations and best practices for the analysis of high dimensional datasets.
@@ -295,9 +296,9 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 
 
 **Videos:**
-- 7.1 - [Introduction to unsupervised learning and K-means clustering](http://youtu.be/k2QPXRtTons){:.no-push-state}{:target="_blank"},  
-- 7.2 - [Hierarchical clustering](http://youtu.be/L72a2QPzlRE){:.no-push-state}{:target="_blank"},  
-- 7.3 - [Principal component analysis (PCA) Pt.1](http://youtu.be/2Ja1BGlfKQo){:.no-push-state}{:target="_blank"}.   
+- 6.1 - [Introduction to unsupervised learning and K-means clustering](http://youtu.be/k2QPXRtTons){:.no-push-state}{:target="_blank"},  
+- 6.2 - [Hierarchical clustering](http://youtu.be/L72a2QPzlRE){:.no-push-state}{:target="_blank"},  
+- 6.3 - [Principal component analysis (PCA) Pt.1](http://youtu.be/2Ja1BGlfKQo){:.no-push-state}{:target="_blank"}.   
   
 
 **Supporting material:**  
@@ -326,8 +327,8 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 
 
 ---
-<a name="8"></a>
-## Week 8: Genome informatics
+<a name="7"></a>
+## Week 7: Genome informatics
 
 **Topics:** 
 Genome sequencing technologies past, present and future (Sanger, Shotgun, PacBio, Illumina, toward the $500 human genome), Biological applications of sequencing, Variation in the genome, RNA-Sequencing for gene expression analysis; Major genomic databases, tools and visualization resources from the EBI & UCSC, The Galaxy platform for quality control and analysis; Sample Galaxy RNA-Seq workflow with FastQC and Bowtie2
@@ -341,10 +342,10 @@ Genome sequencing technologies past, present and future (Sanger, Shotgun, PacBio
 - Understand the SAM/BAM file format and the information it holds.  
 
 **Videos:**  
-- 8.1 - [Introduction to genomics](http://youtu.be/WpbE1dANSDU){:.no-push-state}{:target="_blank"},   
-- 8.2 - [Sequencing methods](https://www.ibiology.org/techniques/dna-sequencing/){:.no-push-state}{:target="_blank"} from Jonathan Weissman (UCSF),    
-- 8.3 - [The basics of RNASeq work-flows](http://youtu.be/_JPAV9PBgnA){:.no-push-state}{:target="_blank"},   
-- 8.4 - Optional: [Lessons from the Human Genome Project](https://www.youtube.com/watch?v=qOW5e4BgEa4){:.no-push-state}{:target="_blank"}.   
+- 7.1 - [Introduction to genomics](http://youtu.be/WpbE1dANSDU){:.no-push-state}{:target="_blank"},   
+- 7.2 - [Sequencing methods](https://www.ibiology.org/techniques/dna-sequencing/){:.no-push-state}{:target="_blank"} from Jonathan Weissman (UCSF),    
+- 7.3 - [The basics of RNASeq work-flows](http://youtu.be/_JPAV9PBgnA){:.no-push-state}{:target="_blank"},   
+- 7.4 - Optional: [Lessons from the Human Genome Project](https://www.youtube.com/watch?v=qOW5e4BgEa4){:.no-push-state}{:target="_blank"}.   
 
 **Supporting material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture13_BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture13_BIMM143-small.pdf){:.no-push-state}{:target="_blank"},
@@ -362,8 +363,8 @@ Genome sequencing technologies past, present and future (Sanger, Shotgun, PacBio
 
 
 ---
-<a name="9"></a>
-## Week 9: Transcriptomics and the analysis of RNA-Seq data
+<a name="8"></a>
+## Week 8: Transcriptomics and the analysis of RNA-Seq data
 
 **Topics:** 
 Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statistics, Counts and FPKMs, Normalizing for sequencing depth, DESeq2 analysis. Gene finding and functional annotation from high throughput sequencing data, Functional databases KEGG, InterPro, GO ontologies and functional enrichment.  
@@ -377,8 +378,8 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 - Perform a GO analysis to identify the pathways relevant to a set of genes (e.g. identified by transcriptomic study or a proteomic experiment). Use both Bioconductor packages and online tools to interpret gene lists and annotate potential gene functions.
 
 **Videos:**
-- 9.1 - [Differential expression analysis of RNA-Seq data](http://youtu.be/vn5Fy2VVWBw){:.no-push-state}{:target="_blank"},  
-- 9.2 - [Differential expression tests and pathway analysis](http://youtu.be/EIMK4TSnQLE){:.no-push-state}{:target="_blank"}.    
+- 8.1 - [Differential expression analysis of RNA-Seq data](http://youtu.be/vn5Fy2VVWBw){:.no-push-state}{:target="_blank"},  
+- 8.2 - [Differential expression tests and pathway analysis](http://youtu.be/EIMK4TSnQLE){:.no-push-state}{:target="_blank"}.    
 - Lab screencast - [Live video walk-through](https://youtu.be/_hFjQvK2UdI){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.      
 
 
@@ -406,6 +407,15 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
  
 **R Knowledge Check**:
 [**Quiz Assessment**](https://forms.gle/FppQDHdzRnQpJudP7){:.no-push-state}{:target="_blank"}. 
+
+
+
+---
+<a name="9"></a>
+## Week 9: Transcriptomics and the analysis of RNA-Seq data II
+
+**Topics:** 
+Analysis of RNA-Seq data with R, single cell data analysis and more advanced methods
 
 
 

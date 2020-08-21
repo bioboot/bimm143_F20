@@ -13,10 +13,10 @@ barry:
 
     Instructional Assistants
     : Alena Martsul (Email: <amartsul@ucsd.edu>)
-    : Hanqing Liu (Email: <hal458@ucsd.edu>)  
+    : Ivy Fernandes (Email: <ihfernan@ucsd.edu>)  
 
     Course Syllabus
-    : [Spring 2020 (PDF)](https://bioboot.github.io/bimm143_S20/class-material/BIMM143_S20_syllabus.pdf){:.no-push-state}
+    : [Fall 2020 (PDF)](https://bioboot.github.io/bimm143_F20/class-material/BIMM143_F20_syllabus.pdf){:.no-push-state}
     {:.message}
 
 #    : [Ileena Mitra](https://bioboot.github.io/bggn213_f17/ileenamitra@eng.ucsd.edu) (Email: <ileenamitra@eng.ucsd.edu>)
@@ -27,7 +27,7 @@ barry:
 
   # This photo will be used in the about section
   picture:
-    src:             /bimm143_S20/assets/img/logo.png
+    src:             /bimm143_F20/assets/img/logo.png
 ##    src:             '{{ site.baseurl }}/assets/img/logo.png'
     # srcset is optional, but can be used to provide higher res versions for retina displays
     #srcset:
