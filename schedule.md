@@ -37,7 +37,7 @@ All course delivery for Fall 2020 will be online via this public facing website.
 ## Week 0: Getting oriented
 
 **Topics:**  
-Course introduction, Learning goals & expectations, Meet the instructional team. Setup your computer with required software.   
+Course introduction, Learning goals & expectations, Meet the instructional team. Seting up your computer with required software.   
 
 **Goals:**
 - Understand course scope, expectations, logistics and ethics code.  
@@ -48,15 +48,14 @@ Course introduction, Learning goals & expectations, Meet the instructional team.
 **Videos:**
 - 0.1 - [Welcome to BIMM143 (course introduction and overview)](https://youtu.be/LI-3ViDUO6c){:target="_blank"}  
 - 0.2 - [Website overview (finding course content and installing software)](https://www.youtube.com/watch?v=zjAjU3Z_oEI){:target="_blank"}  
-- 0.3 - [Meet the team (Barry, Alena & Hanqing)](https://youtu.be/UWVudbOmHnM){:target="_blank"} 
+- 0.3 - [Meet the team (Barry, Alena & Ivy)](https://youtu.be/UWVudbOmHnM){:target="_blank"} 
  
 
 **Supporting material:**  
 - Handout: [Class Syllabus]({{ site.baseurl }}/class-material/BIMM143_F20_syllabus.pdf){:.no-push-state}{:target="_blank"},  
 - Pre-course [Questionnaire](https://forms.gle/sZCwknXUm8W5T1v2A){:target="_blank"},   
 - Computer [Setup Instructions]({{ site.baseurl }}/setup/).  
-- Sign up for our [Piazza class Q&A site](https://piazza.com/ucsd/fall2020/bimm143/home){:target="_blank"},  
-- Office Hours: **TO UPDATE** [Zoom on Thur @ 12:30pm SD time](https://ucsd.zoom.us/s/167105503){:.no-push-state}{:target="_blank"}.   
+- Sign up for our [Piazza class Q&A site](https://piazza.com/ucsd/fall2020/bimm143/home){:target="_blank"}.   
 
 
 
