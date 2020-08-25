@@ -56,8 +56,8 @@ Course introduction, Learning goals & expectations, Meet the instructional team.
 - Handout: [Class Syllabus]({{ site.baseurl }}/class-material/BIMM143_F20_syllabus.pdf){:.no-push-state}{:target="_blank"},  
 - Pre-course [Questionnaire](https://forms.gle/sZCwknXUm8W5T1v2A){:target="_blank"},   
 - Computer [Setup Instructions]({{ site.baseurl }}/setup/).  
-- Sign up for our [Piazza class Q&A site](https://piazza.com/ucsd/fall2020/bimm143/home){:target="_blank"}.   
-
+- Sign up for our [Piazza class Q&A site](https://piazza.com/ucsd/fall2020/bimm143/home){:target="_blank"},     
+- View the class [**GradeBook**](https://docs.google.com/spreadsheets/d/1IwxMaI1d_-4s3zVP1IpVTR6GfP2bJh0I_NWfeL8POQ4/){:target="_blank"}.  
 
 
 ---
