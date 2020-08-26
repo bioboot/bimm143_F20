@@ -35,11 +35,16 @@ barry:
     #  2x:            https://placehold.it/256x256
 
   # Social media icons in sidebar
+  # **** THESE NEED UPDATING FOR EACH COURSE ****
+  #
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    # facebook:        <username>
-    twitter:         barryjgrant
+    #twitter:         barryjgrant
+    piazza:          https://piazza.com/class/ke3slzvlfxz45n
+    gradescope:      https://www.gradescope.com/courses/171345    
+    youtube:         https://www.youtube.com/playlist?list=PLtYfizZe9rnrI-6BFsUqKTX7F2zebfCIQ
+    email:           mailto:<bjgrant@ucsd.edu>
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -62,7 +67,7 @@ barry:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          bioboot
+    #github:          bioboot
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -73,8 +78,7 @@ barry:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:<bjgrant@ucsd.edu>
-    rss:             https://bioboot.github.io/bimm143_S20/feed.xml
+    #rss:             https://bioboot.github.io/bimm143_S20/feed.xml
 
 # Another author
 ileena:
