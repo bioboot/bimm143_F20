@@ -27,7 +27,7 @@ Current versions of [Chrome](https://www.google.com/chrome/), [Firefox](http://w
 We will use [Zoom](https://ucsd.zoom.us) on a weekly basis for office hours and other meetings. Please make sure you have Zoom installed and running to allow you to join these meetings.   
 
 ### The data analysis environment **R** and **RStudio**
-R Binaries for Windows, MacOSX and Linux can be downloaded and installed from [CRAN](http://cran.r-project.org/index.html) (Comprehensive R Archive Network). If possible download the latest binary version of R for your operating system. As of course launch (Sept 18) the latest release (2018-07-02, "Feather Spray") is R-3.5.1.
+R Binaries for Windows, MacOSX and Linux can be downloaded and installed from [CRAN](http://cran.r-project.org/index.html) (Comprehensive R Archive Network). If possible download the latest binary version of R for your operating system. As of course launch (Sept 18) the latest release (2020-06-22, "Taking Off Again") is R-4.0.2.
 
 After installing R itself we recommend installing [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/#download) (version 1.1.456 or above), a slick visual interface for R. **N.B.** You will want the Open Source **FREE** desktop version.
 
