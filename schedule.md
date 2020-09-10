@@ -46,7 +46,7 @@ Course introduction, Learning goals & expectations, Meet the instructional team.
 
 
 **Videos:**
-- 0.1 - [Welcome to BIMM143 (course introduction and overview)](https://youtu.be/LI-3ViDUO6c){:target="_blank"}  
+- 0.1 - [Welcome to BIMM143 (course introduction and overview)](https://youtu.be/hXd58ESRf9w){:target="_blank"}  
 - 0.2 - [Website overview (finding course content and installing software)](https://www.youtube.com/watch?v=zjAjU3Z_oEI){:target="_blank"}  
 - 0.3 - [Meet the team (Barry, Alena & Ivy)](https://youtu.be/UWVudbOmHnM){:target="_blank"}  
 - 0.4 - [Signing up for Piazza](https://youtu.be/aswdH8vXiB0){:target="_blank"}  
@@ -269,7 +269,7 @@ The why, when and how of writing your own R functions with worked examples. Furt
 
  
 **Homework**:   
- - See **Q6** of the [hands-on lab supplement above]({{ site.baseurl }}/class-material/lecture6-BIMM143_W19.pdf){:.no-push-state}{:target="_blank"}. This entails turning a supplied code snippet into a more robust and re-usable function that will take any of the three listed input proteins and plot the effect of drug binding. Note assessment rubric and submission instructions within document. (Submission deadline: 12:00pm next **Tuesday, 11/10/20**).    
+ **Write a function**: See **Q6** of the [hands-on lab supplement above]({{ site.baseurl }}/class-material/lecture6-BIMM143_F20.pdf){:.no-push-state}{:target="_blank"}. This entails turning a supplied code snippet into a more robust and re-usable function that will take any of the three listed input proteins and plot the effect of drug binding. Note assessment rubric and submission instructions within document.    
 - DataCamp: [Intermediate R](https://learn.datacamp.com/courses/intermediate-r){:.no-push-state}{:target="_blank"} compltete chapters 1-3 only (~4hrs).   
 
 
