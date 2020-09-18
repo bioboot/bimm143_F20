@@ -132,8 +132,8 @@ Sequence Alignment and Database Searching: Homology, Sequence similarity, Local 
 **Homework**:   
 - [Questions](https://forms.gle/qZdye3Z1rp5RGs3Q9){:.no-push-state}{:target="_blank"},  
 - For next week please [install R and RStudio](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu){:.no-push-state}{:target="_blank"},  
-- Complete the following [Alignment Problem]({{ site.baseurl }}/class-material/lecture2-BIMM134_homework.pdf){:.no-push-state}{:target="_blank"},  
-- DataCamp: Sign-up to our **BIMM143_S20 group/organization** via the link in your UCSD email (we will use this next week),   
+- Complete the following [Alignment Problem]({{ site.baseurl }}/class-material/wk2_homework.pdf){:.no-push-state}{:target="_blank"},  
+- DataCamp: Sign-up to our **Bioinformatics F20 group/organization** via the link in your UCSD email (we will use this next week),   
 
 
 
@@ -394,7 +394,7 @@ Bioinformatics on the command line, Why do we use UNIX for bioinformatics? UNIX 
 
 
 **Supporting material:**
-- Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture17_bggn213-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture17_bggn213-large-small.pdf){:.no-push-state}{:target="_blank"}.
+- Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture16_BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture16_BIMM143-small.pdf){:.no-push-state}{:target="_blank"}.
 - Hands-on section worksheet
   * [Using remote UNIX machines (Part I, **REQUIRED**)]({{ site.baseurl }}/class-material/17_blast-01/){:.no-push-state}{:target="_blank"},
   * [Using remote UNIX machines (Part II, Optional)]({{ site.baseurl }}/class-material/16_blast-02/){:.no-push-state},
