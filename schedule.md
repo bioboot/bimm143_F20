@@ -92,6 +92,7 @@ Biology is an information science, History of Bioinformatics, Types of data, App
 
 **Homework**:  
 - [Questions](https://forms.gle/5oZhPkxYHvJkLgwu7){:.no-push-state}{:target="_blank"},  
+- Submit your completed lab report (i.e. filled in PDF form) to [GradeScope](https://www.gradescope.com/courses/171345){:.no-push-state}{:target="_blank"},  
 - Readings: 
   - PDF1: [What is bioinformatics? An introduction and overview]({{ site.baseurl }}/class-material/bioinformatics_review.pdf){:.no-push-state},  
   - PDF2: [Advancements and Challenges in Computational Biology]({{ site.baseurl }}/class-material/bioinformatics_challenges_2015.pdf){:.no-push-state}.  
@@ -131,6 +132,7 @@ Sequence Alignment and Database Searching: Homology, Sequence similarity, Local 
 
 **Homework**:   
 - [Questions](https://forms.gle/qZdye3Z1rp5RGs3Q9){:.no-push-state}{:target="_blank"},  
+- Submit your completed lab report (i.e. filled in PDF form) to [GradeScope](https://www.gradescope.com/courses/171345){:.no-push-state}{:target="_blank"},  
 - For next week please [install R and RStudio](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu){:.no-push-state}{:target="_blank"},  
 - Complete the following [Alignment Problem]({{ site.baseurl }}/class-material/wk2_homework.pdf){:.no-push-state}{:target="_blank"},  
 - DataCamp: Sign-up to our **Bioinformatics F20 group/organization** via the link in your UCSD email (we will use this next week),   
@@ -193,6 +195,7 @@ Why do we use R for bioinformatics? R language basics and the RStudio IDE, Major
 
 **Homework**:   
 - [Questions](https://forms.gle/cCc1sHqRqYYYq8m56){:.no-push-state}{:target="_blank"},  
+- Submit your completed PDF lab report (as produced from your kintted RMarkdown file) to [GradeScope](https://www.gradescope.com/courses/171345){:.no-push-state}{:target="_blank"},  
 - **DataCamp**: Sign-up to our **Bioinformatics_Fall2020 group/organization** via the link in your UCSD email and **complete** [**Introduction to R!**](https://learn.datacamp.com/courses/free-introduction-to-r){:.no-push-state}{:target="_blank"} (4hrs).  
     
 
@@ -232,6 +235,7 @@ The exploratory data analysis mindset, Data visualization best practices, Simple
  
 **Homework**:   
 - [Questions](https://forms.gle/p8X8R4pibs6WkLAG9){:.no-push-state}{:target="_blank"},  
+- Submit your completed PDF lab report to [GradeScope](https://www.gradescope.com/courses/171345){:.no-push-state}{:target="_blank"},  
 - DataCamp: [Introduction to Data Visualization with ggplot2](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-ggplot2){:.no-push-state}{:target="_blank"} (~4hrs).    
 - SideNote: [Convincing with graphics](https://xkcd.com/833/){:.no-push-state}.  
 - Check-out the new website: [Data-to-Viz](https://www.data-to-viz.com/){:.no-push-state}{:target="_blank"} and [ggplot cheat sheat](https://rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf){:.no-push-state}{:target="_blank"}.  
@@ -270,6 +274,7 @@ The why, when and how of writing your own R functions with worked examples. Furt
  
 **Homework**:   
 - **Write a function**: See **Q6** of the [hands-on lab supplement above]({{ site.baseurl }}/class-material/lecture6-BIMM143_F20.pdf){:.no-push-state}{:target="_blank"}. This entails turning a supplied code snippet into a more robust and re-usable function that will take any of the three listed input proteins and plot the effect of drug binding. Note assessment rubric and submission instructions within document.    
+- Submit your completed PDF lab report to [GradeScope](https://www.gradescope.com/courses/171345){:.no-push-state}{:target="_blank"},  
 - DataCamp: [Intermediate R](https://learn.datacamp.com/courses/intermediate-r){:.no-push-state}{:target="_blank"} compltete chapters 1-3 only (~4hrs).   
 
 
@@ -317,6 +322,7 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 **Homework**:   
 - Mini-Project: [Unsupervised learning analysis of breast cancer cells]({{ site.baseurl }}/class-material/wk7_miniproject.html){:.no-push-state}{:target="_blank"},  
 - Data file: [WisconsinCancer.csv]({{ site.baseurl }}/class-material/WisconsinCancer.csv){:.no-push-state}, [new_samples.csv]({{ site.baseurl }}/class-material/new_samples.csv){:.no-push-state}.     
+- Submit your completed PDF lab report to [GradeScope](https://www.gradescope.com/courses/171345){:.no-push-state}{:target="_blank"},  
 - DataCamp: [Introduction to the Tidyverse](https://learn.datacamp.com/courses/introduction-to-the-tidyverse){:.no-push-state}{:target="_blank"} (~4hrs).   
  
 
@@ -407,6 +413,7 @@ Bioinformatics on the command line, Why do we use UNIX for bioinformatics? UNIX 
 
 **Homework**:   
 - [Questions]({{ site.baseurl }}/class-material/HW8_unix_questions.pdf){:.no-push-state}{:target="_blank"},  
+- No lab report due this week,  
 - DataCamp: [Introduction to the Unix shell](https://learn.datacamp.com/courses/introduction-to-shell){:.no-push-state}{:target="_blank"} (~4hrs).   
  
 
@@ -452,6 +459,7 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 **Homework:**
 - [DESeq2 analysis mini-project]({{ site.baseurl }}/class-material/lab-15-bimm143.html){:.no-push-state}{:target="_blank"} **TO BE UPDATED!**,  
 - Data files: [GSE37704_featurecounts.csv]({{ site.baseurl }}/class-material/GSE37704_featurecounts.csv){:.no-push-state}, [GSE37704_metadata.csv]({{ site.baseurl }}/class-material/GSE37704_metadata.csv){:.no-push-state}.   
+- Submit your completed PDF lab report to [GradeScope](https://www.gradescope.com/courses/171345){:.no-push-state}{:target="_blank"},  
 
  
 
