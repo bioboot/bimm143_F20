@@ -35,7 +35,7 @@ An integrated lecture/lab structure with hands-on exercises and small-scale proj
 Biology majors with upper division standing. A familiarity with basic biomedical concepts is essential (students should have successfully completed BILD1 and BILD4 or BIMM 101). No formal programming training or high level mathematical skills are required.  
 
 ## Accessibility:  
-We are committed to making this course accessible to everybody. Please contact Prof. Grant <bigrant@ucsd.edu> if you have questions regarding content accessibility.  
+We are committed to making this course accessible to everybody. Please contact Prof. Grant <bjgrant@ucsd.edu> if you have questions regarding content accessibility.  
 
 ## Requirements: 
 To fully participate in this course students will be expected to use their own  computers with specific freely available [software installed]({{ site.baseurl }}/setup/).    
