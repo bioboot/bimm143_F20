@@ -48,7 +48,7 @@ Course introduction, Learning goals & expectations, Meet the instructional team.
 **Videos:**
 - 0.1 - [Welcome to BIMM143 (course introduction and overview)](https://youtu.be/hXd58ESRf9w){:target="_blank"}  
 - 0.2 - [Website overview (finding course content and installing software)](http://youtu.be/DjUZaPHxObk){:target="_blank"}  
-- 0.3 - [Meet the team (Barry, Alena & Ivy)](https://youtu.be/UWVudbOmHnM){:target="_blank"}  
+- 0.3 - [Meet the team (Barry, Alena, Ivy & Kritin)](http://youtu.be/AiTR7sDXc8M){:target="_blank"}  
 - 0.4 - [Signing up for Piazza](https://youtu.be/aswdH8vXiB0){:target="_blank"}  
 
 
