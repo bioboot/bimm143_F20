@@ -114,18 +114,18 @@ Sequence Alignment and Database Searching: Homology, Sequence similarity, Local 
 
 
 **Videos:**  
-- 2.1 - [Alignment fundamentals]({{ site.baseurl }}/https://www.youtube.com/watch?v=SU22pycFrDk){:.no-push-state}{:target="_blank"},    
-- 2.2 - [Dot plots]({{ site.baseurl }}/http://youtu.be/nnPNwlzX2qg){:.no-push-state}{:target="_blank"},    
-- 2.3 - [Dynamic programing, global alignment]({{ site.baseurl }}/https://youtu.be/LkwgI2mHbik){:.no-push-state}{:target="_blank"},    
-- 2.4 - [Dynamic programing, local alignment and BLAST basics]({{ site.baseurl }}/https://youtu.be/uhD77hnxM2g){:.no-push-state}{:target="_blank"},    
+- 2.1 - [Alignment fundamentals](https://www.youtube.com/watch?v=SU22pycFrDk){:.no-push-state}{:target="_blank"},    
+- 2.2 - [Dot plots](http://youtu.be/nnPNwlzX2qg){:.no-push-state}{:target="_blank"},    
+- 2.3 - [Dynamic programing, global alignment](https://youtu.be/LkwgI2mHbik){:.no-push-state}{:target="_blank"},    
+- 2.4 - [Dynamic programing, local alignment and BLAST basics](https://youtu.be/uhD77hnxM2g){:.no-push-state}{:target="_blank"},    
   
 
 **Supporting Material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture2-BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture2-BIMM143-small.pdf){:.no-push-state}{:target="_blank"},    
 - Dot Plot App Mirrors: [app-1](https://barryus.shinyapps.io/dotplot/){:.no-push-state}{:target="_blank"},  [app-2](https://bioboot.shinyapps.io/dotplot/){:.no-push-state}{:target="_blank"},     
 - Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/lab-2-BIMM143_online-form.pdf){:.no-push-state}{:target="_blank"}  
-- Lab: [Video walk-through]({{ site.baseurl }}/https://youtu.be/mttQRu4Fnmg){:target="_blank"}{:.no-push-state} live on Thur @ 10am SD time,   
-- Office Hours: [Zoom on Thur @ 12:30pm SD time]({{ site.baseurl }}/class-material/zoom_link/){:.no-push-state}{:target="_blank"},   
+- Lab: [Video walk-through](https://youtu.be/U4u8jJqA2PI){:target="_blank"}{:.no-push-state} live on Thur @ 10am SD time,   
+- Student Hours: [Zoom on Thur @ 12:30pm SD time](https://ucsd.zoom.us/j/96862297538){:.no-push-state}{:target="_blank"},   
 - Feedback: [Muddy Point Assessment](https://forms.gle/FEbKxnq4X7nUMhcn8){:.no-push-state}{:target="_blank"}.   
      
 
