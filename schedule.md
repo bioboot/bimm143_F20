@@ -256,9 +256,9 @@ The why, when and how of writing your own R functions with worked examples. Furt
 - Understand how to find and use package vignettes, demos, documentation, tutorials and source code repository where available.    
 
 **Videos:**  
-- 5.1 - [Writing your own functions (why, when and how)]({{ site.baseurl }}/https://www.youtube.com/watch?v=Z30gU8bowPU){:.no-push-state}{:target="_blank"},
-- 5.2 - [Introduction to CRAN & BioConductor]({{ site.baseurl }}/http://youtu.be/OyOzRiu3458){:.no-push-state}{:target="_blank"},
-- 5.3 - [Quick introduction to RMarkdown]({{ site.baseurl }}/https://www.youtube.com/watch?v=O7GMs9V3HQk){:.no-push-state}{:target="_blank"},  
+- 5.1 - [Writing your own functions (why, when and how)](https://www.youtube.com/watch?v=Z30gU8bowPU){:.no-push-state}{:target="_blank"},
+- 5.2 - [Introduction to CRAN & BioConductor](http://youtu.be/OyOzRiu3458){:.no-push-state}{:target="_blank"},
+- 5.3 - [Quick introduction to RMarkdown](https://www.youtube.com/watch?v=O7GMs9V3HQk){:.no-push-state}{:target="_blank"},  
 - 5.4 - Optional longer video: [Getting started with RMarkdown](https://rstudio.com/resources/webinars/getting-started-with-r-markdown/){:.no-push-state}{:target="_blank"}.  
 
 
@@ -273,6 +273,7 @@ The why, when and how of writing your own R functions with worked examples. Furt
 
  
 **Homework**:   
+- [Questions](https://forms.gle/fG66E9bs6r4F93Kd8){:.no-push-state}{:target="_blank"},  
 - **Write a function**: See **Q6** of the [hands-on lab supplement above]({{ site.baseurl }}/class-material/lecture6-BIMM143_F20.pdf){:.no-push-state}{:target="_blank"}. This entails turning a supplied code snippet into a more robust and re-usable function that will take any of the three listed input proteins and plot the effect of drug binding. Note assessment rubric and submission instructions within document.    
 - Submit your completed PDF lab report to [GradeScope](https://www.gradescope.com/courses/171345){:.no-push-state}{:target="_blank"},  
 - DataCamp: [Intermediate R](https://learn.datacamp.com/courses/intermediate-r){:.no-push-state}{:target="_blank"} compltete chapters 1-3 only (~4hrs).   
@@ -302,7 +303,7 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 
 
 **Videos:**
-- 6.1 - [Introduction to unsupervised learning and K-means clustering]({{ site.baseurl }}/http://youtu.be/k2QPXRtTons){:.no-push-state}{:target="_blank"},  
+- 6.1 - [Introduction to unsupervised learning and K-means clustering](http://youtu.be/k2QPXRtTons){:.no-push-state}{:target="_blank"},  
 - 6.2 - [Hierarchical clustering]({{ site.baseurl }}/http://youtu.be/L72a2QPzlRE){:.no-push-state}{:target="_blank"},  
 - 6.3 - [Principal component analysis (PCA) Pt.1]({{ site.baseurl }}/http://youtu.be/2Ja1BGlfKQo){:.no-push-state}{:target="_blank"}.   
   
