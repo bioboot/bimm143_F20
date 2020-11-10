@@ -304,8 +304,8 @@ Unsupervised learning, supervised learning and reinforcement learning; Focus on 
 
 **Videos:**
 - 6.1 - [Introduction to unsupervised learning and K-means clustering](http://youtu.be/k2QPXRtTons){:.no-push-state}{:target="_blank"},  
-- 6.2 - [Hierarchical clustering](http://youtu.be/L72a2QPzlRE){:.no-push-state}{:target="_blank"},  
-- 6.3 - [Principal component analysis (PCA) Pt.1](http://youtu.be/2Ja1BGlfKQo){:.no-push-state}{:target="_blank"}.   
+- 6.2 - [Hierarchical clustering](https://youtu.be/lU8S_Do3OPQ){:.no-push-state}{:target="_blank"},  
+- 6.3 - [Principal component analysis (PCA) Pt.1](http://youtu.be/Olm0gW6OXIg){:.no-push-state}{:target="_blank"}.   
   
 
 **Supporting material:**  
