@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BIMM-143, Lecture 17
+title: BIMM-143, Week 8
 ---
 
 Using remote machines (Part I)
@@ -8,7 +8,7 @@ Using remote machines (Part I)
 
 **Lecture 16:**   
 Barry Grant &lt; <http://thegrantlab.org/bimm143/> &gt;   
-2019-11-19   (23:49:31 PST on Tue, Nov 19)  
+2020-11-18   (23:15:54 PST on Wed, Nov 18)  
 {:.message}
 
 
@@ -83,11 +83,11 @@ You should now have access to your AWS instance within your local terminal (see 
 
 As this is effectively a brand new machine (with a fresh Ubuntu Linux OS just installed) we need to update the software to make sure we are using the latest and greatest versions of the various software we will need later.
 
-Copy and paste the following two commands into your AWS instance command line to updates the software list and then install the Python programming language and NCBI BLAST+:
+Copy and paste the following two commands into your AWS instance command line to updates the software list and then install NCBI BLAST+:
 
 ```
 sudo apt-get update  
-sudo apt-get -y install python ncbi-blast+
+sudo apt-get -y install ncbi-blast+
 ```
 
 > Please make sure to hit enter after the paste -- sometimes the last line doesn't
@@ -298,8 +298,8 @@ sudo apt-get update && sudo apt-get -y install gdebi-core r-base
 After that finishes, download and install RStudio:
 
 ```
-wget https://download2.rstudio.org/rstudio-server-1.1.453-amd64.deb  
-sudo gdebi rstudio-server-1.1.453-amd64.deb
+wget https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-1.4.1043-amd64.deb
+sudo gdebi rstudio-server-1.4.1043-amd64.deb
 ```
 
 After answering `yes` when prompted you should see a final line indicating that an RStudio server has started:
@@ -321,13 +321,13 @@ computer that they're running RStudio on.  We will use YOUR specific machines IP
 If you have forgotten your IP address you can use find it out like so:
 
 ```
-ifconfig | grep ' broadcast ' | awk '{ print $2}'
+curl ifconfig.me
 ```
 
 This should print-out your IP address that will look something like `172.31.18.114`. Lets assign this to a variable (called `myip` in this case) and use that to print out the web address you will use to access YOUR server:
 
 ```
-myip=`ifconfig | grep ' broadcast ' | awk '{ print $2}'`
+myip=`curl ifconfig.me`
 echo My RStudio Web server is running at: http://$myip:8787/
 ```
 
