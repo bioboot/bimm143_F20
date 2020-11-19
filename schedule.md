@@ -358,7 +358,7 @@ Genome sequencing technologies past, present and future (Sanger, Shotgun, PacBio
 **Supporting material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture13_BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture13_BIMM143-small.pdf){:.no-push-state}{:target="_blank"},
 - Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/wk8_genomics_lab.pdf){:.no-push-state}{:target="_blank"} (as PDF form),
-- Lab: Live screencast [video walk-through]({{ site.baseurl }}/https://youtu.be/jfAlMYAJNw8){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.  
+- Lab: Live screencast [video walk-through](https://youtu.be/jfAlMYAJNw8){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.  
 - RNA-Seq data files: [HG00109_1.fastq]({{ site.baseurl }}/class-material/HG00109_1.fastq){:.no-push-state}, [HG00109_2.fastq]({{ site.baseurl }}/class-material/HG00109_2.fastq){:.no-push-state}, [genes.chr17.gtf]({{ site.baseurl }}/class-material/genes.chr17.gtf){:.no-push-state}, [Expression genotype results]({{ site.baseurl }}/class-material/rs8067378_ENSG00000172057.6.txt){:.no-push-state}.
 - [SAM/BAM file format description]({{ site.baseurl }}//class-material/sam_format/){:.no-push-state}{:target="_blank"}.  
 - Student Hours: [Zoom on Thur @ 12:30pm SD time](https://ucsd.zoom.us/j/96862297538){:.no-push-state}{:target="_blank"},   
