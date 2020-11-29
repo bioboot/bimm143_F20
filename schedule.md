@@ -436,16 +436,16 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 - Perform a GO analysis to identify the pathways relevant to a set of genes (e.g. identified by transcriptomic study or a proteomic experiment). Use both Bioconductor packages and online tools to interpret gene lists and annotate potential gene functions.
 
 **Videos:**
-- 9.1 - [Differential expression analysis of RNA-Seq data]({{ site.baseurl }}/http://youtu.be/vn5Fy2VVWBw){:.no-push-state}{:target="_blank"},  
-- 9.2 - [Differential expression tests and pathway analysis]({{ site.baseurl }}/http://youtu.be/EIMK4TSnQLE){:.no-push-state}{:target="_blank"}.    
-- Lab screencast - [Live video walk-through]({{ site.baseurl }}/https://youtu.be/_hFjQvK2UdI){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.      
+- 9.1 - [Differential expression analysis of RNA-Seq data](http://youtu.be/vn5Fy2VVWBw){:.no-push-state}{:target="_blank"},  
+- 9.2 - [Differential expression tests and pathway analysis](http://youtu.be/EIMK4TSnQLE){:.no-push-state}{:target="_blank"}.    
+- Lab screencast - [Live video walk-through](https://youtu.be/HnT1YL_KxQk){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.      
 
 
 **Supporting material:**
 - Lecture Slides: [Large PDF]({{ site.baseurl }}/class-material/lecture14_BIMM143-large.pdf){:.no-push-state}{:target="_blank"}, [Small PDF]({{ site.baseurl }}/class-material/lecture14_BIMM143-small.pdf){:.no-push-state}{:target="_blank"}.
 - Detailed [Bioconductor setup]({{ site.baseurl }}//class-material/bioconductor_setup/){:.no-push-state}{:target="_blank"} instructions.
 - Lab: [Hands-on section worksheet]({{ site.baseurl }}/class-material/week09_lab_bimm143){:.no-push-state}{:target="_blank"},  
-- Lab: Live screencast [video walk-through]({{ site.baseurl }}/https://youtu.be/_hFjQvK2UdI){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.  
+- Lab: Live screencast [video walk-through](https://youtu.be/HnT1YL_KxQk){:target="_blank"}{:.no-push-state} @ 10am Thur SD time.  
 - Data files: [airway_scaledcounts.csv]({{ site.baseurl }}/class-material/airway_scaledcounts.csv){:.no-push-state}, [airway_metadata.csv]({{ site.baseurl }}/class-material/airway_metadata.csv){:.no-push-state}.  
 - Student Hours: [Zoom on Thur @ 12:30pm SD time](https://ucsd.zoom.us/j/96862297538){:.no-push-state}{:target="_blank"},   
 - [Muddy point assessment](https://goo.gl/forms/CjzYyzBT0VsuOvBt2){:.no-push-state}.  
