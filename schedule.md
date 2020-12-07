@@ -460,9 +460,9 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 
 
 **Homework:**
-- [DESeq2 analysis mini-project]({{ site.baseurl }}/class-material/lab-15-bimm143.html){:.no-push-state}{:target="_blank"} **TO BE UPDATED!**,  
-- Data files: [GSE37704_featurecounts.csv]({{ site.baseurl }}/class-material/GSE37704_featurecounts.csv){:.no-push-state}, [GSE37704_metadata.csv]({{ site.baseurl }}/class-material/GSE37704_metadata.csv){:.no-push-state}.   
 - Submit your completed PDF lab report to [GradeScope](https://www.gradescope.com/courses/171345){:.no-push-state}{:target="_blank"},  
+- [DESeq2 analysis mini-project]({{ site.baseurl }}/class-material/lab-15-bimm143.html){:.no-push-state}{:target="_blank"} **Optional**: submit to gradescope for extra credit,  
+- Data files: [GSE37704_featurecounts.csv]({{ site.baseurl }}/class-material/GSE37704_featurecounts.csv){:.no-push-state}, [GSE37704_metadata.csv]({{ site.baseurl }}/class-material/GSE37704_metadata.csv){:.no-push-state}.   
 
  
 
@@ -473,8 +473,10 @@ Analysis of RNA-Seq data with R, Differential expression tests, RNA-Seq statisti
 **Topics:** 
 Going further with your own computer in the cloud, Launching and using AWS EC2 instances (A.K.A. Virtual Machines), Summary of learning goals, Student course evaluation time; Find a gene assignment due. Discussion of Bioinformatics and genomics in industry and beyond, Open study.  
 
-- **Section 1**: [Starting your own computer in the cloud]({{ site.baseurl }}/class-material/aws_01.html){:.no-push-state}{:target="_blank"},  
-- **Section 2**: [Accessing and using your AWS instance]({{ site.baseurl }}/class-material/aws_02/){:.no-push-state}{:target="_blank"},  
+
+- Overview video: [Launching an AWS EC2 instance](http://youtu.be/5-Nxt85UmoA){:.no-push-state}{:target="_blank"},  
+- **Section 1** Walk through: [Starting your own computer in the cloud]({{ site.baseurl }}/class-material/aws_01.html){:.no-push-state}{:target="_blank"},  
+- **Section 2** Walk through: [Accessing and using your AWS instance]({{ site.baseurl }}/class-material/aws_02/){:.no-push-state}{:target="_blank"},  
 - AWS Console URL: [https://awsed.ucsd.edu/](https://awsed.ucsd.edu/){:.no-push-state}{:target="_blank"}.
 
 <br>
